@@ -116,6 +116,13 @@
                     </a>
                 </li>
 
+                <li class="side-nav-item">
+                    <a href="{{route('blog.section')}}" class="side-nav-link">
+                        <i class="ri-dashboard-3-line"></i>
+                        <span> Blog </span>
+                    </a>
+                </li>
+
                 @can('resource-list')
                     <li class="side-nav-item">
                         <a data-bs-toggle="collapse" href="#sidebarPages" aria-expanded="false" aria-controls="sidebarPages" class="side-nav-link">

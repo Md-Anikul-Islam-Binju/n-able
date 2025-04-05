@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\admin\AdminDashboardController;
+use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\NewsEventController;
 use App\Http\Controllers\admin\SliderController;
 use App\Http\Controllers\admin\TeamMemberController;
@@ -45,6 +46,11 @@ Route::middleware('auth')->group(callback: function () {
     Route::post('/event-store', [NewsEventController::class, 'store'])->name('event.store');
     Route::put('/event-update/{id}', [NewsEventController::class, 'update'])->name('event.update');
     Route::get('/event-delete/{id}', [NewsEventController::class, 'destroy'])->name('event.destroy');
+
+    Route::get('/blog-section', [BlogController::class, 'index'])->name('blog.section');
+    Route::post('/blog-store', [BlogController::class, 'store'])->name('blog.store');
+    Route::put('/blog-update/{id}', [BlogController::class, 'update'])->name('blog.update');
+    Route::get('/blog-delete/{id}', [BlogController::class, 'destroy'])->name('blog.destroy');
 
     Route::get('/dashboard', [AdminDashboardController::class, 'index'])->name('dashboard');
     Route::get('/unauthorized-action', [AdminDashboardController::class, 'unauthorized'])->name('unauthorized.action');
