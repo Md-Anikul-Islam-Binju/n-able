@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\admin\AdminDashboardController;
+use App\Http\Controllers\admin\NewsEventController;
 use App\Http\Controllers\admin\SliderController;
 use App\Http\Controllers\admin\TeamMemberController;
 use App\Http\Controllers\HomePageController;
@@ -39,6 +40,11 @@ Route::middleware('auth')->group(callback: function () {
     Route::post('/team-store', [TeamMemberController::class, 'store'])->name('team.store');
     Route::put('/team-update/{id}', [TeamMemberController::class, 'update'])->name('team.update');
     Route::get('/team-delete/{id}', [TeamMemberController::class, 'destroy'])->name('team.destroy');
+
+    Route::get('/event-list', [NewsEventController::class, 'index'])->name('event.section');
+    Route::post('/event-store', [NewsEventController::class, 'store'])->name('event.store');
+    Route::put('/event-update/{id}', [NewsEventController::class, 'update'])->name('event.update');
+    Route::get('/event-delete/{id}', [NewsEventController::class, 'destroy'])->name('event.destroy');
 
     Route::get('/dashboard', [AdminDashboardController::class, 'index'])->name('dashboard');
     Route::get('/unauthorized-action', [AdminDashboardController::class, 'unauthorized'])->name('unauthorized.action');
