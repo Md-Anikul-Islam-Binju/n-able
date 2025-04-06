@@ -6,9 +6,11 @@ use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\NewsEventController;
 use App\Http\Controllers\admin\SliderController;
 use App\Http\Controllers\admin\TeamMemberController;
+use App\Http\Controllers\BlogPageController;
 use App\Http\Controllers\CareerPageController;
 use App\Http\Controllers\ContactUsPageController;
 use App\Http\Controllers\HomePageController;
+use App\Http\Controllers\NewsEventPageController;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
@@ -32,6 +34,9 @@ Route::get('/callCentre', [CareerPageController::class, 'CallCentre']);
 Route::get('/seniorBusiness', [CareerPageController::class, 'SeniorBusiness']);
 
 Route::get('/resume', [CareerPageController::class, 'resume']);
+
+Route::get('/blog', [BlogPageController::class, 'blog']);
+Route::get('/newsEvent', [NewsEventPageController::class, 'newsEvent']);
 
 
 //Route::get('/dashboard', function () {

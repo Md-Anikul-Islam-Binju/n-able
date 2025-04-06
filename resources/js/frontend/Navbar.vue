@@ -66,8 +66,8 @@
                             Resources
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="news & events.html">News & Events</a></li>
-                            <li><a class="dropdown-item" href="blogs.html">Blogs</a></li>
+                            <li><Link class="dropdown-item" href="/newsEvent">News & Events</Link></li>
+                            <li><Link class="dropdown-item" href="/blog">Blogs</Link></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
