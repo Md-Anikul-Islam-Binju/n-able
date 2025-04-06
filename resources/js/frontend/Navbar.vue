@@ -30,30 +30,30 @@
                         </a>
                         <ul class="dropdown-menu" style="min-width: 270px;">
                             <li class="dropdown-item p-2">
-                                <a class="d-flex align-items-center text-decoration-none text-dark" href="infrastructure.html" style="min-width: 250px;">
+                                <Link class="d-flex align-items-center text-decoration-none text-dark" href="infrastructure" style="min-width: 250px;">
                                     <img src="frontend/images/service-1.png" alt="Action Icon" class="me-2 flex-shrink-0" width="30">
                                     <span class="fw-bold">Infrastructure</span>
-                                </a>
+                                </Link>
                                 <small class="dropdown-text text-muted d-block mt-1 ps-4"
                                        style="max-width: 275px; white-space: normal; word-break: break-word; line-height: 1.4;">
                                     Robust & secure infrastructure solutions for modern business requirements.
                                 </small>
                             </li>
                             <li class="dropdown-item p-2">
-                                <a class="d-flex align-items-center text-decoration-none text-dark" href="application.html" style="min-width: 250px;">
+                                <Link class="d-flex align-items-center text-decoration-none text-dark" href="/applications" style="min-width: 250px;">
                                     <img src="frontend/images/service-2.png" alt="Action Icon" class="me-2 flex-shrink-0" width="30">
                                     <span class="fw-bold">Applications</span>
-                                </a>
+                                </Link>
                                 <small class="dropdown-text text-muted d-block mt-1 ps-4"
                                        style="max-width: 275px; white-space: normal; word-break: break-word; line-height: 1.4;">
                                     Solutions for enhanced application performance & data management.
                                 </small>
                             </li>
                             <li class="dropdown-item p-2">
-                                <a class="d-flex align-items-center text-decoration-none text-dark" href="tech services.html" style="min-width: 250px;">
+                                <Link class="d-flex align-items-center text-decoration-none text-dark" href="/tech" style="min-width: 250px;">
                                     <img src="frontend/images/service-3.png" alt="Action Icon" class="me-2 flex-shrink-0" width="30">
                                     <span class="fw-bold">Tech Services</span>
-                                </a>
+                                </Link>
                                 <small class="dropdown-text text-muted d-block mt-1 ps-4"
                                        style="max-width: 275px; white-space: normal; word-break: break-word; line-height: 1.4;">
                                     Dependable and expert IT support to help to manage your operations.

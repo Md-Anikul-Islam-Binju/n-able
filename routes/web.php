@@ -12,6 +12,7 @@ use App\Http\Controllers\ContactUsPageController;
 use App\Http\Controllers\HomePageController;
 use App\Http\Controllers\NewsEventPageController;
 use App\Http\Controllers\RoleController;
+use App\Http\Controllers\SolutionPageController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -37,6 +38,11 @@ Route::get('/resume', [CareerPageController::class, 'resume']);
 
 Route::get('/blog', [BlogPageController::class, 'blog']);
 Route::get('/newsEvent', [NewsEventPageController::class, 'newsEvent']);
+
+
+Route::get('/infrastructure', [SolutionPageController::class, 'infrastructure']);
+Route::get('/applications', [SolutionPageController::class, 'applications']);
+Route::get('/tech', [SolutionPageController::class, 'tech']);
 
 
 //Route::get('/dashboard', function () {
