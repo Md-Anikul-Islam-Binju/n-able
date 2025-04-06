@@ -16,6 +16,21 @@ class CareerPageController extends Controller
         return inertia('Vacancies');
     }
 
+    public function associateBusiness()
+    {
+        return inertia('AssociateBusiness');
+    }
+    public function callCentre()
+    {
+        return inertia('CallCentre');
+    }
+    public function seniorBusiness()
+    {
+        return inertia('SeniorBusiness');
+    }
+
+
+
     public function resume()
     {
         return inertia('Resume');

@@ -26,6 +26,11 @@ Route::get('/partners', [AboutUsPageController::class, 'partners']);
 
 Route::get('/whyWork', [CareerPageController::class, 'WhyWork']);
 Route::get('/vacancies', [CareerPageController::class, 'vacancies']);
+
+Route::get('/associateBusiness', [CareerPageController::class, 'associateBusiness']);
+Route::get('/callCentre', [CareerPageController::class, 'CallCentre']);
+Route::get('/seniorBusiness', [CareerPageController::class, 'SeniorBusiness']);
+
 Route::get('/resume', [CareerPageController::class, 'resume']);
 
 
