@@ -37,7 +37,9 @@ Route::get('/seniorBusiness', [CareerPageController::class, 'SeniorBusiness']);
 Route::get('/resume', [CareerPageController::class, 'resume']);
 
 Route::get('/blog', [BlogPageController::class, 'blog']);
+Route::get('/blogDetails/{id}', [BlogPageController::class, 'blogDetails']);
 Route::get('/newsEvent', [NewsEventPageController::class, 'newsEvent']);
+Route::get('/newsEventDetails/{id}', [NewsEventPageController::class, 'newsEventDetails']);
 
 
 Route::get('/infrastructure', [SolutionPageController::class, 'infrastructure']);

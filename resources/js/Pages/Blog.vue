@@ -41,7 +41,7 @@
                             <p class="card-text" v-html="getTruncatedText(blog.details)"></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> {{ blog.date }}</a>
-                                <a href="#" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></a>
+                                <Link :href="'/blogDetails/' + blog.id" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></Link>
                             </div>
                         </div>
                     </div>

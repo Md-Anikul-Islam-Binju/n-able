@@ -12,4 +12,12 @@ class BlogPageController extends Controller
         $blogs = Blog::latest()->get();
         return inertia('Blog',compact('blogs'));
     }
+
+    public function blogDetails($id)
+    {
+        $blogs = Blog::latest()->get();
+        $blog = Blog::findOrFail($id);
+        return inertia('BlogDetails',compact('blog','blogs'));
+    }
+
 }
