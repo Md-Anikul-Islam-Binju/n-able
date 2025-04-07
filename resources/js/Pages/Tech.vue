@@ -18,26 +18,26 @@
             <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
                     <!-- Card 1 -->
                     <div class="col">
-                        <a href="managed operations page.html">
+                        <Link href="/managedOperations">
                             <div class="card position-relative">
                                 <img src="frontend/images/page/page-13.webp" class="card-img-top custom-img" alt="Image 1" style="height: 22rem; object-fit: cover;">
                                 <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                     <h5 class="w-100 m-0 p-2">Managed Operations</h5>
                                 </div>
                             </div>
-                        </a>
+                        </Link>
                     </div>
 
                     <!-- Card 2 -->
                     <div class="col">
-                        <a href="technical support page.html">
+                        <Link href="/technicalSupport">
                             <div class="card position-relative">
                                 <img src="frontend/images/page/page-14.webp" class="card-img-top custom-img" alt="Image 2" style="height: 22rem; object-fit: cover;">
                                 <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                     <h5 class="w-100 m-0 p-2">Technical Support</h5>
                                 </div>
                             </div>
-                        </a>
+                        </Link>
                     </div>
                 </div>
         </div>

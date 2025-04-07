@@ -20,4 +20,12 @@ class SolutionPageController extends Controller
     {
         return inertia('Tech');
     }
+    public function managedOperations()
+    {
+        return inertia('ManagedOperations');
+    }
+    public function technicalSupport()
+    {
+        return inertia('TechnicalSupport');
+    }
 }

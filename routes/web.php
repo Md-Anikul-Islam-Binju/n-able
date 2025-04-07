@@ -43,7 +43,8 @@ Route::get('/newsEvent', [NewsEventPageController::class, 'newsEvent']);
 Route::get('/infrastructure', [SolutionPageController::class, 'infrastructure']);
 Route::get('/applications', [SolutionPageController::class, 'applications']);
 Route::get('/tech', [SolutionPageController::class, 'tech']);
-
+Route::get('/managedOperations', [SolutionPageController::class, 'managedOperations']);
+Route::get('/technicalSupport', [SolutionPageController::class, 'technicalSupport']);
 
 //Route::get('/dashboard', function () {
 //    return view('dashboard');
