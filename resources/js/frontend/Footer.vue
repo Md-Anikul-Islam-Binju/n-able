@@ -33,9 +33,9 @@
                         <div class="col-md-6 mb-3">
                             <h5>Solutions</h5>
                             <ul class="list-unstyled">
-                                <li><a href="#" class="text-white text-decoration-none">Infrastructure</a></li>
-                                <li><a href="#" class="text-white text-decoration-none">Applications</a></li>
-                                <li><a href="#" class="text-white text-decoration-none">Tech Services</a></li>
+                                <li><Link href="/infrastructure" class="text-white text-decoration-none">Infrastructure</Link></li>
+                                <li><Link href="/applications" class="text-white text-decoration-none">Applications</Link></li>
+                                <li><Link href="/tech" class="text-white text-decoration-none">Tech Services</Link></li>
                             </ul>
                         </div>
 
