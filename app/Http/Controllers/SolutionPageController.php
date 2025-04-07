@@ -15,6 +15,22 @@ class SolutionPageController extends Controller
     {
         return inertia('Applications');
     }
+    public function applicationIntegration()
+    {
+        return inertia('ApplicationIntegration');
+    }
+    public function automation()
+    {
+        return inertia('Automation');
+    }
+    public function bfsiApplications()
+    {
+        return inertia('BfsiApplications');
+    }
+    public function dataAnalytics()
+    {
+        return inertia('DataAnalytics');
+    }
 
     public function tech()
     {

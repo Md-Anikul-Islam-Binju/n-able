@@ -19,50 +19,50 @@
 
                 <!-- Card 1 -->
                 <div class="col">
-                    <a href="automation page.html">
+                    <Link href="/automation">
                         <div class="card position-relative">
                             <img src="frontend/images/page/page-9.webp" class="card-img-top custom-img" alt="Automation" style="height: 22rem; object-fit: cover;">
                             <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                 <h5 class="w-100 m-0 p-2">Automation</h5>
                             </div>
                         </div>
-                    </a>
+                    </Link>
                 </div>
 
                 <!-- Card 2 -->
                 <div class="col">
-                    <a href="application modernization page.html">
+                    <Link href="/applicationIntegration">
                         <div class="card position-relative">
                             <img src="frontend/images/page/page-10.webp" class="card-img-top custom-img" alt="Application Modernization" style="height: 22rem; object-fit: cover;">
                             <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                 <h5 class="w-100 m-0 p-2">Application Modernization & Integration</h5>
                             </div>
                         </div>
-                    </a>
+                    </Link>
                 </div>
 
                 <!-- Card 3 -->
                 <div class="col">
-                    <a href="bfst applications page.html">
+                    <Link href="/bfsiApplications">
                         <div class="card position-relative">
                             <img src="frontend/images/page/page-11.webp" class="card-img-top custom-img" alt="BFSI Applications" style="height: 22rem; object-fit: cover;">
                             <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                 <h5 class="w-100 m-0 p-2">BFSI Applications</h5>
                             </div>
                         </div>
-                    </a>
+                    </Link>
                 </div>
 
                 <!-- Card 4 -->
                 <div class="col">
-                    <a href="data & analytics page.html">
+                    <Link href="/dataAnalytics">
                         <div class="card position-relative">
                             <img src="frontend/images/page/page-12.webp" class="card-img-top custom-img" alt="Data & Analytics" style="height: 22rem; object-fit: cover;">
                             <div class="card-img-overlay d-flex align-items-end justify-content-center text-white bg-dark bg-opacity-50">
                                 <h5 class="w-100 m-0 p-2">Data & Analytics</h5>
                             </div>
                         </div>
-                    </a>
+                    </Link>
                 </div>
 
             </div>

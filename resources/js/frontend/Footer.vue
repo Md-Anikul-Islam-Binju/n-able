@@ -6,7 +6,6 @@
 
                 <!-- Company Logo Section (Left) -->
                 <div class="col-md-3 mb-4">
-                    <h5>Company Logo</h5>
                     <img src="frontend/images/nable-black.png" alt="Company Logo" class="img-fluid mb-3">
                     <form action="#" method="post">
                         <div class="input-group">

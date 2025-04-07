@@ -41,7 +41,14 @@ Route::get('/newsEvent', [NewsEventPageController::class, 'newsEvent']);
 
 
 Route::get('/infrastructure', [SolutionPageController::class, 'infrastructure']);
+
 Route::get('/applications', [SolutionPageController::class, 'applications']);
+Route::get('/applicationIntegration', [SolutionPageController::class, 'applicationIntegration']);
+Route::get('/automation', [SolutionPageController::class, 'automation']);
+Route::get('/bfsiApplications', [SolutionPageController::class, 'bfsiApplications']);
+Route::get('/dataAnalytics', [SolutionPageController::class, 'dataAnalytics']);
+
+
 Route::get('/tech', [SolutionPageController::class, 'tech']);
 Route::get('/managedOperations', [SolutionPageController::class, 'managedOperations']);
 Route::get('/technicalSupport', [SolutionPageController::class, 'technicalSupport']);
