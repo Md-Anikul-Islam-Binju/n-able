@@ -40,7 +40,7 @@
                             <h5 class="card-title">{{ blog.title }}</h5>
                             <p class="card-text" v-html="getTruncatedText(blog.details)"></p>
                             <div class="d-flex justify-content-between align-items-center">
-                                <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> 27 Dec 2024</a>
+                                <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> {{ blog.date }}</a>
                                 <a href="#" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ export default {
             const words = cleanText.split(/\s+/);
 
             // If the text has more than 250 words, truncate it
-            if (words.length > 20) {
+            if (words.length > 10) {
                 return words.slice(0, 10).join(" ") + " ...";
             }
 

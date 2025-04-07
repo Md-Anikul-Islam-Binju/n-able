@@ -2,12 +2,14 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NewsEvent;
 use Illuminate\Http\Request;
 
 class NewsEventPageController extends Controller
 {
     public function newsEvent()
     {
-        return inertia('NewsEvent');
+        $newsEvents = NewsEvent::latest()->get();
+        return inertia('NewsEvent',compact('newsEvents'));
     }
 }
