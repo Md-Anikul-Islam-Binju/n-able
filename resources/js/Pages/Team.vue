@@ -39,27 +39,14 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-center">
-                <div class="col">
+                <div  class="col" v-for="(team, index) in teams" :key="index">
                     <div class="card border-0 shadow-sm p-3 text-center">
-                        <img src="frontend/images/slide.jpg" alt="Buddhike Illangatillake" class="rounded-circle mx-auto" width="150" height="150">
-                        <h3 class="mt-3">Subarna Islam</h3>
-                        <p class="text-primary h5">Chairman</p>
+                        <img :src="baseUrl + '/images/team/' + team.image" alt="Buddhike Illangatillake" class="rounded-circle mx-auto" width="150" height="150">
+                        <h3 class="mt-3">{{ team.name }}</h3>
+                        <p class="text-primary h5">{{ team.designation }}</p>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card border-0 shadow-sm p-3 text-center">
-                        <img src="frontend/images/slide.jpg" alt="Shirantha Herath" class="rounded-circle mx-auto" width="150" height="150">
-                        <h3 class="mt-3">Mohammad Shafi Iqbal</h3>
-                        <p class="text-primary h5">Managing Director</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card border-0 shadow-sm p-3 text-center">
-                        <img src="frontend/images/slide.jpg" alt="Jennifer Samuel Perera" class="rounded-circle mx-auto" width="150" height="150">
-                        <h3 class="mt-3 text-truncate">Mohammad Abdullah Al-Mamun</h3>
-                        <p class=" text-primary h5">Director</p>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>
@@ -87,6 +74,14 @@ import Layout from "../frontend/Layout.vue";
 export default {
     name: "Team",
     layout: Layout,
+    props: {
+        teams: Array,
+    },
+    computed: {
+        baseUrl() {
+            return window.location.origin;
+        },
+    },
 }
 </script>
 

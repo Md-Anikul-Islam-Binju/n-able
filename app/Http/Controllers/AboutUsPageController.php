@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Team;
 use Illuminate\Http\Request;
 
 class AboutUsPageController extends Controller
@@ -13,7 +14,8 @@ class AboutUsPageController extends Controller
 
     public function team()
     {
-        return inertia('Team');
+        $teams = Team::latest()->get();
+        return inertia('Team',compact('teams'));
     }
 
     public function awards()
