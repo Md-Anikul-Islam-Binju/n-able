@@ -10,7 +10,7 @@
                     <div class="carousel-item active" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
                         <div class="container h-100 d-flex align-items-center justify-content-start text-start">
                             <div class="banner-content text-white">
-                                <h1 class="fs-1">Welcome to N-able</h1>
+                                <h1 class="fs-1">Welcome to Technocare Orbit</h1>
                                 <p>Driving Business Growth with Innovative Tech Solutions</p>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
             <div class="row g-4">
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/high-quality.png" alt="End-to-End Solution Portfolio" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/high-quality.png" alt="End-to-End Solution Portfolio" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">End-to-End Solution Portfolio</h4>
                         <p class="text-muted">Delivering seamless, end-to-end solutions for all your business needs.</p>
                     </div>
@@ -271,7 +271,7 @@
 
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/rating.png" alt="Industry-Leading Professionals" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/rating.png" alt="Industry-Leading Professionals" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">Industry-Leading Professionals</h4>
                         <p class="text-muted">Together, we set the standard as industry-leading professionals.</p>
                     </div>
@@ -279,7 +279,7 @@
 
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/bulb.png" alt="Reliable 24/7 Support" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/bulb.png" alt="Reliable 24/7 Support" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">Reliable 24/7 Support</h4>
                         <p class="text-muted">24/7 support from our experts to cater to your business needs.</p>
                     </div>
@@ -287,7 +287,7 @@
 
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/global.png" alt="Global Expertise" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/global.png" alt="Global Expertise" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">Global Expertise</h4>
                         <p class="text-muted">Driving success with a world-class blend of knowledge, innovation, and strategic insight.</p>
                     </div>
@@ -295,7 +295,7 @@
 
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/quality.png" alt="Certified Internationally" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/quality.png" alt="Certified Internationally" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">Certified Internationally</h4>
                         <p class="text-muted">Globally recognized for excellence with trusted international certifications.</p>
                     </div>
@@ -303,7 +303,7 @@
 
                 <div class="col-md-4">
                     <div class=" p-3">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/vendor.png" alt="Multi-Vendor" class="img-fluid mx-auto" width="50">
+                        <img src="frontend/images/vendor.png" alt="Multi-Vendor" class="img-fluid mx-auto" width="50">
                         <h4 class="mt-3">Multi-Vendor</h4>
                         <p class="text-muted">Offering seamless solutions across a diverse range of trusted vendors.</p>
                     </div>
@@ -340,27 +340,28 @@
             </div>
         </div>
     </div>
+    <br>
 
     <!-- Our Global Presence -->
-    <section class="position-relative py-5">
-        <div class="container text-center">
-            <h2 class="fw-bold text-primary mb-3">
-                Our Global Presence
-            </h2>
-            <p class="text-secondary mb-4">
-                With a presence spanning multiple countries and regions, we are proud to bring our expertise to businesses & organizations across the world. From local initiatives to large-scale global projects, our solutions empower industries across diverse markets, helping them thrive.
-            </p>
-            <img alt="map"
-                 src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/themes/nable-theme/assets/img/map.png"
-                 class="img-fluid rounded shadow"
-                 decoding="async">
-        </div>
+<!--    <section class="position-relative py-5">-->
+<!--        <div class="container text-center">-->
+<!--            <h2 class="fw-bold text-primary mb-3">-->
+<!--                Our Global Presence-->
+<!--            </h2>-->
+<!--            <p class="text-secondary mb-4">-->
+<!--                With a presence spanning multiple countries and regions, we are proud to bring our expertise to businesses & organizations across the world. From local initiatives to large-scale global projects, our solutions empower industries across diverse markets, helping them thrive.-->
+<!--            </p>-->
+<!--            <img alt="map"-->
+<!--                 src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/themes/nable-theme/assets/img/map.png"-->
+<!--                 class="img-fluid rounded shadow"-->
+<!--                 decoding="async">-->
+<!--        </div>-->
 
-        <!-- Vanta.js Background -->
-        <div id="vantajs" class="position-absolute top-0 start-0 w-100 h-100">
-            <canvas class="vanta-canvas"></canvas>
-        </div>
-    </section>
+<!--        &lt;!&ndash; Vanta.js Background &ndash;&gt;-->
+<!--        <div id="vantajs" class="position-absolute top-0 start-0 w-100 h-100">-->
+<!--            <canvas class="vanta-canvas"></canvas>-->
+<!--        </div>-->
+<!--    </section>-->
 
 
     <!-- News & Events -->
@@ -373,51 +374,24 @@
         </div>
         <br>
         <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
-            <div class="col">
+            <div class="col" v-for="(newsEvent, index) in newsEvents" :key="index">
                 <div class="card">
-                    <img src="frontend/images/slide.jpg" class="card-img-top" alt="card-1">
+                    <img :src="baseUrl + '/images/event/' + newsEvent.image" style="height: 250px;" class="card-img-top" alt="card-1">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title text-truncate">{{ newsEvent.title }}</h5>
+                        <p class="card-text" v-html="getTruncatedText(newsEvent.details)"></p>
                         <div class="d-flex justify-content-between align-items-center">
-                            <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> 27 Dec 2024</a>
-                            <a href="#" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></a>
+                            <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i>  {{ newsEvent.event_date }}  {{ newsEvent.event_time }}</a>
+                            <Link :href="'/newsEventDetails/' + newsEvent.id" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></Link>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col">
-                <div class="card">
-                    <img src="frontend/images/slide.jpg" class="card-img-top" alt="card-2">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <div class="d-flex justify-content-between align-items-center">
-                            <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> 27 Dec 2024</a>
-                            <a href="#" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col">
-                <div class="card">
-                    <img src="frontend/images/slide.jpg" class="card-img-top zoom-img" alt="card-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <div class="d-flex justify-content-between align-items-center">
-                            <a href="#" class="text-decoration-none text-start fs-6 fw-bold"><i class='bx bxs-calendar'></i> 27 Dec 2024</a>
-                            <a href="#" class="text-decoration-none text-end fs-1 fw-bold text-danger"><i class='bx bx-right-arrow-alt'></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         <br>
         <div class="text-center">
-            <a href="news & events.html" role="button" class="btn btn-outline-primary rounded-pill fs-5">View more</a>
+            <Link href="/newsEvent" role="button" class="btn btn-outline-primary rounded-pill fs-5">View more</Link>
         </div>
     </div>
     <br>
@@ -503,6 +477,31 @@ import Layout from "../frontend/Layout.vue";
 export default {
     name: "Index",
     layout: Layout,
+    props: {
+        newsEvents: Array,
+    },
+    computed: {
+        baseUrl() {
+            return window.location.origin;
+        },
+    },
+    methods: {
+        // Method to truncate the content to 250 words
+        getTruncatedText(text) {
+            // Remove HTML tags
+            let cleanText = text.replace(/<\/?[^>]+(>|$)/g, "");
+
+            // Split the text into words
+            const words = cleanText.split(/\s+/);
+
+            // If the text has more than 250 words, truncate it
+            if (words.length > 20) {
+                return words.slice(0, 10).join(" ") + " ...";
+            }
+
+            return cleanText; // Return original text if it's less than 250 words
+        },
+    },
 }
 </script>
 

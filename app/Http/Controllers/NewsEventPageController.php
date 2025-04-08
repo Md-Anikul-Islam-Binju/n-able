@@ -16,6 +16,7 @@ class NewsEventPageController extends Controller
     public function newsEventDetails($id)
     {
         $newsEvent = NewsEvent::findOrFail($id);
-        return inertia('NewsEventDetails',compact('newsEvent'));
+        $newsEvents = NewsEvent::latest()->get();
+        return inertia('NewsEventDetails',compact('newsEvent','newsEvents'));
     }
 }
