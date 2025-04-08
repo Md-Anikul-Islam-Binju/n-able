@@ -43,6 +43,14 @@ Route::get('/newsEventDetails/{id}', [NewsEventPageController::class, 'newsEvent
 
 
 Route::get('/infrastructure', [SolutionPageController::class, 'infrastructure']);
+Route::get('/cybersecurity', [SolutionPageController::class, 'cybersecurity']);
+Route::get('/virtualization', [SolutionPageController::class, 'virtualization']);
+Route::get('/enterprise', [SolutionPageController::class, 'enterprise']);
+Route::get('/itInfrastructureSolutions', [SolutionPageController::class, 'itInfrastructureSolutions']);
+Route::get('/dataCentreConsultancyBuild', [SolutionPageController::class, 'dataCentreConsultancyBuild']);
+Route::get('/voltageSolutions', [SolutionPageController::class, 'voltageSolutions']);
+Route::get('/telecomInfrastructure', [SolutionPageController::class, 'telecomInfrastructure']);
+Route::get('/industrialInternet', [SolutionPageController::class, 'industrialInternet']);
 
 Route::get('/applications', [SolutionPageController::class, 'applications']);
 Route::get('/applicationIntegration', [SolutionPageController::class, 'applicationIntegration']);

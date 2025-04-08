@@ -10,6 +10,38 @@ class SolutionPageController extends Controller
     {
         return inertia('Infrastructure');
     }
+    public function cybersecurity()
+    {
+        return inertia('Cybersecurity');
+    }
+    public function virtualization()
+    {
+        return inertia('Virtualization');
+    }
+    public function enterprise()
+    {
+        return inertia('Enterprise');
+    }
+    public function itInfrastructureSolutions()
+    {
+        return inertia('ItInfrastructureSolutions');
+    }
+    public function dataCentreConsultancyBuild()
+    {
+        return inertia('DataCentreConsultancyBuild');
+    }
+    public function voltageSolutions()
+    {
+        return inertia('VoltageSolutions');
+    }
+    public function telecomInfrastructure()
+    {
+        return inertia('TelecomInfrastructure');
+    }
+    public function industrialInternet()
+    {
+        return inertia('IndustrialInternet');
+    }
 
     public function applications()
     {
