@@ -16,12 +16,12 @@
                 </div>
 
                 <!-- Quick Links Section (Center) -->
-                <div class="col-md-3 mb-4 d-flex flex-column align-items-md-center align-items-start">
+                <div class="col-md-3 mb-4 d-flex flex-column align-items-md-center align-items-start mt-5">
                     <h5>Quick Links</h5>
                     <ul class="list-unstyled  text-start">
-                        <li><a href="#" class="text-white text-decoration-none btn-info">Privacy Policy</a></li>
-                        <li><a href="#" class="text-white text-decoration-none">compliance</a></li>
-                        <li><a href="#" class="text-white text-decoration-none">Partner with us</a></li>
+                        <li><a href="page-4.html" class="text-white text-decoration-none btn-info">Privacy Policy</a></li>
+                        <li><a href="page-5.html" class="text-white text-decoration-none">compliance</a></li>
+                        <li><a href="page-6.html" class="text-white text-decoration-none">Partner with us</a></li>
                     </ul>
                 </div>
 
@@ -30,8 +30,8 @@
                     <div class="row">
 
                         <!-- Solutions -->
-                        <div class="col-md-6 mb-3">
-                            <h5>Solutions</h5>
+                        <div class="col-md-6 mb-3 mt-5">
+                            <h4>Solutions</h4>
                             <ul class="list-unstyled">
                                 <li><Link href="/infrastructure" class="text-white text-decoration-none">Infrastructure</Link></li>
                                 <li><Link href="/applications" class="text-white text-decoration-none">Applications</Link></li>
@@ -40,23 +40,46 @@
                         </div>
 
                         <!-- Follow Us & Get in Touch -->
-                        <div class="col-md-6">
-                            <h5>Follow Us</h5>
+                        <div class="col-md-6 mt-5 w-50">
+                            <h4>Follow Us</h4>
                             <ul class="list-unstyled d-flex mb-3">
-                                <li><a href="#" class="text-white me-3"><i class="bi bi-facebook"></i></a></li>
-                                <li><a href="#" class="text-white me-3"><i class="bi bi-linkedin"></i></a></li>
+                                <li>
+                                    <a href="#" class="text-white me-3">
+
+                                        <i class='bx bxl-facebook'></i>
+
+                                    </a>
+
+                                </li>
+                                <li>
+                                    <a href="#" class="text-white me-3">
+                                        <i class='bx bxl-linkedin'></i>
+                                    </a>
+                                </li>
                             </ul>
-                            <h5>Get in Touch</h5>
-                            <p class="mb-1">
-                                <a href="mailto:info@n-able.biz" class="text-white text-decoration-none">
-                                    <i class="bx bxs-envelope"></i> info@n-able.biz
-                                </a>
+                            <h4>Get in Touch</h4>
+
+                            <p class="md-6">
+                                <a href="#" class="text-white text-decoration-none"></a>
+                                <i class="bx bxs-envelope"></i> support@technocareorbit.io
                             </p>
-                            <p>
-                                <a href="tel:+94114625005" class="text-white text-decoration-none">
-                                    <i class="bx bxs-phone-call"></i> +94 114 625 005
-                                </a>
+
+                            <p class="md-6">
+                                <a href="#" class="text-white text-decoration-none"></a>
+                                <i class="bx bxs-envelope"></i> siqbal@technocareorbit.io
                             </p>
+
+                            <p class="md-6">
+                                <a href="#" class="text-white text-decoration-none"></a>
+                                <i class="bx bxs-phone"></i> +88 09613-554400
+                            </p>
+
+                            <p class="md-6">
+                                <a href="#" class="text-white text-decoration-none"></a>
+                                <i class="bx bxs-phone"></i>  +88 01710-507935
+                            </p>
+
+
                         </div>
                     </div>
                 </div>

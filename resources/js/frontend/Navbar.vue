@@ -1,8 +1,8 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top fs-3">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                <img src="frontend/images/nable-black.png" alt="Logo" width="140" height="40" class="d-inline-block align-text-top logo">
+            <a class="navbar-brand fs-4 " href="/">
+                <img src="frontend/images/nable-black.png" alt="Logo" width="160" height="60" class="d-inline-block align-text-top logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
