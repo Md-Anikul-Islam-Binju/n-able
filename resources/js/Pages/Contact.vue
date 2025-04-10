@@ -5,7 +5,7 @@
             <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold">Contact us</h1>
+            <h1 class="fw-bold">CONTACT US</h1>
             <p class="lead fw-bold fs-5">Connect. Collaborate. Converse.</p>
         </div>
     </header>
@@ -38,7 +38,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Email us</strong></p>
-                        <p><a href="mailto:info@n-able.biz" class="text-decoration-none">info@n-able.biz</a></p>
+                        <p><a href="support@technocareorbit.io" class="text-decoration-none">support@technocareorbit.io</a></p>
                     </div>
                 </div>
 
@@ -49,7 +49,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Call us</strong></p>
-                        <p><a href="tel:0114625000" class="text-decoration-none">0114 625 000</a></p>
+                        <p><a href="tel:0114625000" class="text-decoration-none">+88 01710-507935</a></p>
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                             Dhaka -1212, Bangladesh
                         </p>
                         <p class="cb-phone fw-bold mt-2">
-                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+880 1777 113 110</a>
+                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+88 01710-507935</a>
                         </p>
                     </div>
                 </div>

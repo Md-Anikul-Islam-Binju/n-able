@@ -5,7 +5,7 @@
             <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold fs-1">Why Work With Us?</h1>
+            <h1 class="fw-bold fs-1">WHY WORK WITH US?</h1>
             <p class="lead fw-bold fs-5">Join us</p>
         </div>
     </header>
@@ -15,7 +15,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <p class=" text-muted">
-                        At N-able, we believe in fostering a dynamic and inclusive work environment where innovation thrives. As a part of our team, you'll have the opportunity to collaborate with talented professionals, work on cutting-edge technologies, and contribute to solutions that empower businesses worldwide.
+                        At Technocare Orbit , we believe in fostering a dynamic and inclusive work environment where innovation thrives. As a part of our team, you'll have the opportunity to collaborate with talented professionals, work on cutting-edge technologies, and contribute to solutions that empower businesses worldwide.
                     </p>
                 </div>
                 <div class="col-lg-6">

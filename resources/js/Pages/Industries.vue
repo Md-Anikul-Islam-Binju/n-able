@@ -6,13 +6,13 @@
             <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold fs-1">Industries We Serve</h1>
+            <h1 class="fw-bold fs-1">INDUSTRIES WE SERVE</h1>
         </div>
     </header>
 
     <section class="container text-center mt-5">
         <h5 class="mb-5 text-black-50">
-            As a leading technology solutions provider, N-able empowers businesses across industries to achieve growth and efficiency through innovative solutions.
+            As a leading technology solutions provider, Technocare Orbit empowers businesses across industries to achieve growth and efficiency through innovative solutions.
         </h5>
     </section>
 

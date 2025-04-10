@@ -402,7 +402,7 @@
         <div class="container">
             <h2 class="section-heading-2 text-white">Testimonials</h2>
             <p class="section-description text-white">
-                Hear what our clients have to say about their journey with N-able.
+                Hear what our clients have to say about their journey with Technocare Orbit.
             </p>
 
             <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -417,7 +417,7 @@
                             <h5 class="testi-name text-white mt-3">Adam Gamage-Brooker</h5>
                             <p class="testi-designation text-white">Chief Operating Officer - Muve Colombo</p>
                             <p class="text-white">
-                                “We have been utilizing N-able’s Managed IT Services for the past two years at Muve
+                                “We have been utilizing Technocare Orbit Managed IT Services for the past two years at Muve
                                 and we are extremely pleased with the level of service provided by them. Their proactive
                                 approach and their expertise in managing IT infrastructure has greatly contributed to our
                                 operational efficiency.”
@@ -435,7 +435,7 @@
                             <h5 class="testi-name text-white mt-3">Professor Gihan Dias</h5>
                             <p class="testi-designation text-white">Domain Registrar & CEO - LK Domain Registry</p>
                             <p class="text-white">
-                                “We value our partnership with N-able (Pvt) Ltd. as a Security Services Provider for
+                                “We value our partnership with Technocare Orbit. as a Security Services Provider for
                                 LK Domain Registry. Their services have contributed to the reliability and stability of
                                 our IT infrastructure.”
                             </p>
@@ -452,7 +452,7 @@
                             <h5 class="testi-name text-white mt-3">Dr. Ruwan Wickramarachchi</h5>
                             <p class="testi-designation text-white">Department of Industrial Management - University of Kelaniya</p>
                             <p class="text-white">
-                                “Thanks to N-able, we now have a more secure & reliable network performance – ensuring
+                                “Thanks to Technocare Orbit, we now have a more secure & reliable network performance – ensuring
                                 smooth connectivity across our campus. We highly appreciate N-able’s support and look
                                 forward to future collaborations.”
                             </p>

@@ -8,7 +8,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Industrial Internet of Things (IIoT)</h1>
+                <h1 class="fw-bold text-center">INDUSTRIAL INTERNET OF THINGS (IIoT)</h1>
             </div>
         </div>
     </header>
@@ -31,7 +31,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Industrial Internet of Things (IIoT)</h1>
                     <p class="section-description text-muted">
-                        At N-able, we help businesses harness the power of the Industrial Internet of Things (IIoT) with solutions designed to address diverse industry needs. By connecting devices, systems, and processes, our offerings enable smarter, data-driven decisions. Through real-time monitoring, predictive analytics and automation, we enhance efficiency, improve safety and reduce costs. With innovative technology and seamless integration, our IIoT solutions ensure businesses stay competitive, agile and ready for future challenges.
+                        At Technocare Orbit, we help businesses harness the power of the Industrial Internet of Things (IIoT) with solutions designed to address diverse industry needs. By connecting devices, systems, and processes, our offerings enable smarter, data-driven decisions. Through real-time monitoring, predictive analytics and automation, we enhance efficiency, improve safety and reduce costs. With innovative technology and seamless integration, our IIoT solutions ensure businesses stay competitive, agile and ready for future challenges.
                     </p>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s IIoT solutions for smart ports empower businesses to optimize port operations by enhancing safety, efficiency, and decision-making. These solutions address the complexities of modern port environments, ensuring seamless workflows, real-time monitoring and improved operational visibility. By integrating advanced technology, we enable ports to handle increasing demands while maintaining compliance and safety standards.
+                                Technocare Orbit  IIoT solutions for smart ports empower businesses to optimize port operations by enhancing safety, efficiency, and decision-making. These solutions address the complexities of modern port environments, ensuring seamless workflows, real-time monitoring and improved operational visibility. By integrating advanced technology, we enable ports to handle increasing demands while maintaining compliance and safety standards.
                             </p>
                             <h5 class="fw-bold">Our solutions include :</h5>
                             <ul class="mb-4">
@@ -82,7 +82,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                Our smart fleet solutions are designed to enhance the management and efficiency of fleet operations. From real-time tracking to driver monitoring, these offerings ensure safer transportation, optimized logistics, and reduced operational costs. N-able’s solutions help businesses achieve seamless coordination and resource allocation while maintaining high levels of safety and productivity.
+                                Our smart fleet solutions are designed to enhance the management and efficiency of fleet operations. From real-time tracking to driver monitoring, these offerings ensure safer transportation, optimized logistics, and reduced operational costs. Technocare Orbit solutions help businesses achieve seamless coordination and resource allocation while maintaining high levels of safety and productivity.
                             </p>
                             <h5 class="fw-bold">Our solutions include :</h5>
                             <ul class="mb-4">
@@ -105,7 +105,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s smart facility solutions transform conventional spaces into intelligent environments. By leveraging IIoT technology, we enable real-time monitoring of infrastructure, environmental conditions, and operational systems. These solutions help businesses improve energy efficiency, ensure safety, and enhance the comfort and functionality of homes, offices, factories, and other facilities.
+                                Technocare Orbit smart facility solutions transform conventional spaces into intelligent environments. By leveraging IIoT technology, we enable real-time monitoring of infrastructure, environmental conditions, and operational systems. These solutions help businesses improve energy efficiency, ensure safety, and enhance the comfort and functionality of homes, offices, factories, and other facilities.
                             </p>
                             <h5 class="fw-bold">Our solutions include :</h5>
                             <ul class="mb-4">
@@ -128,7 +128,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s IIoT solutions for manufacturing streamline processes, enhance productivity, and reduce waste. By automating critical operations and integrating advanced monitoring technologies, we help businesses modernize their production lines and improve supply chain visibility. Our solutions are tailored to drive efficiency and maintain competitiveness in an ever-evolving manufacturing landscape.
+                                Technocare Orbit IIoT solutions for manufacturing streamline processes, enhance productivity, and reduce waste. By automating critical operations and integrating advanced monitoring technologies, we help businesses modernize their production lines and improve supply chain visibility. Our solutions are tailored to drive efficiency and maintain competitiveness in an ever-evolving manufacturing landscape.
                             </p>
                             <h5 class="fw-bold">Our solutions include :</h5>
                             <ul class="mb-4">
@@ -153,7 +153,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                In addition to our core IIoT solutions, N-able provides a range of value-added services that amplify the benefits of technology integration. These include advanced analytics, security solutions, and future-ready integrations that ensure seamless operation and long-term adaptability. Our services empower businesses to harness the full potential of IIoT while meeting industry standards and business goals.
+                                In addition to our core IIoT solutions, Technocare Orbit provides a range of value-added services that amplify the benefits of technology integration. These include advanced analytics, security solutions, and future-ready integrations that ensure seamless operation and long-term adaptability. Our services empower businesses to harness the full potential of IIoT while meeting industry standards and business goals.
                             </p>
                             <h5 class="mb-4">Our solutions include :</h5>
                             <ul class="mb-4">

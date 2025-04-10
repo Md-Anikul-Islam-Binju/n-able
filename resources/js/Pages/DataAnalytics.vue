@@ -9,7 +9,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Data & Analytics</h1>
+                <h1 class="fw-bold text-center">DATA & ANALYTICS</h1>
             </div>
         </div>
     </header>
@@ -32,7 +32,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Data & Analytics</h1>
                     <p class="section-description text-muted">
-                        N-able’s Data & Analytics Solutions enable organizations to harness the power of their data, transforming raw information into actionable insights. Our solutions help businesses optimize their data management processes, improve decision-making and drive operational efficiency. By ensuring data accuracy, consistency and accessibility, we empower organizations to unlock new opportunities and achieve sustainable growth in an increasingly data-driven world.
+                        Technocare Orbit  Data & Analytics Solutions enable organizations to harness the power of their data, transforming raw information into actionable insights. Our solutions help businesses optimize their data management processes, improve decision-making and drive operational efficiency. By ensuring data accuracy, consistency and accessibility, we empower organizations to unlock new opportunities and achieve sustainable growth in an increasingly data-driven world.
                     </p>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able provides robust Data Architecture solutions to design scalable, flexible and high-performance systems for managing and storing vast amounts of data. We create customized architectures that ensure seamless integration, optimize data flow and provide a strong foundation for future data operations. Our approach ensures that businesses can efficiently manage data at scale, enhancing accessibility and performance across all platforms.
+                                Technocare Orbit  provides robust Data Architecture solutions to design scalable, flexible and high-performance systems for managing and storing vast amounts of data. We create customized architectures that ensure seamless integration, optimize data flow and provide a strong foundation for future data operations. Our approach ensures that businesses can efficiently manage data at scale, enhancing accessibility and performance across all platforms.
                             </p>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able specializes in Data Modelling & Design to create structured data models that align with your business requirements. Our solutions help organize and define the relationships between different data sets, ensuring clarity, consistency and scalability. By leveraging industry best practices, we ensure that your data models reflect both current needs and future growth, enhancing system efficiency and supporting advanced analytics.
+                                Technocare Orbit  specializes in Data Modelling & Design to create structured data models that align with your business requirements. Our solutions help organize and define the relationships between different data sets, ensuring clarity, consistency and scalability. By leveraging industry best practices, we ensure that your data models reflect both current needs and future growth, enhancing system efficiency and supporting advanced analytics.
                             </p>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                Our Data Integration services enable smooth and seamless connectivity across disparate data sources and platforms. N-able ensures that data from various systems—whether on-premise or cloud-based—can be integrated, synchronized and made available in real time. This integration is crucial for organizations looking to unify data across multiple touchpoints, providing a single, accurate view for decision-making.
+                                Our Data Integration services enable smooth and seamless connectivity across disparate data sources and platforms. Technocare Orbit  ensures that data from various systems—whether on-premise or cloud-based—can be integrated, synchronized and made available in real time. This integration is crucial for organizations looking to unify data across multiple touchpoints, providing a single, accurate view for decision-making.
                             </p>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Master Data Management (MDM) solutions focus on ensuring that your business operates with a single, accurate and consistent version of key business data. By centralizing master data across various systems, we eliminate data silos and enhance data consistency across your organization. This results in improved data quality, enhanced decision-making and compliance with regulatory standards.
+                                Technocare Orbit  Master Data Management (MDM) solutions focus on ensuring that your business operates with a single, accurate and consistent version of key business data. By centralizing master data across various systems, we eliminate data silos and enhance data consistency across your organization. This results in improved data quality, enhanced decision-making and compliance with regulatory standards.
                             </p>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                     <div id="collapse-6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                With N-able’s Data Quality Management solutions, businesses can ensure the accuracy, consistency, and reliability of their data. Our approach helps identify and resolve data quality issues, reduce errors and improve overall data integrity. We use advanced techniques to cleanse and enrich data, enabling organizations to trust the data they rely on for critical business decisions.
+                                With Technocare Orbit Data Quality Management solutions, businesses can ensure the accuracy, consistency, and reliability of their data. Our approach helps identify and resolve data quality issues, reduce errors and improve overall data integrity. We use advanced techniques to cleanse and enrich data, enabling organizations to trust the data they rely on for critical business decisions.
                             </p>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                     <div id="collapse-7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Data Warehousing & Business Intelligence solutions provide businesses with a centralized repository for storing vast amounts of structured data. Our data warehousing solutions enable seamless access to critical business insights, while our Business Intelligence tools allow organizations to run advanced analytics, generate reports, and visualize data. This empowers businesses to make data-driven decisions that drive growth and competitive advantage.
+                                Technocare Orbit Data Warehousing & Business Intelligence solutions provide businesses with a centralized repository for storing vast amounts of structured data. Our data warehousing solutions enable seamless access to critical business insights, while our Business Intelligence tools allow organizations to run advanced analytics, generate reports, and visualize data. This empowers businesses to make data-driven decisions that drive growth and competitive advantage.
                             </p>
                         </div>
                     </div>

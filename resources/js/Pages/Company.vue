@@ -5,7 +5,7 @@
             <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold">The Company</h1>
+            <h1 class="fw-bold">THE COMPANY</h1>
             <p class="lead text-info fw-bold fs-5">Who we are & what we do</p>
         </div>
     </header>
@@ -23,9 +23,9 @@
                 </div>
                 <div class="col-lg-6">
                     <h4 class="section-sub-heading-2 text-primary">Our Identity</h4>
-                    <h1 class="section-heading-2 text-dark fw-bold">About N-able</h1>
+                    <h1 class="section-heading-2 text-dark fw-bold">About Technocare Orbit</h1>
                     <p class="section-description text-muted">
-                        Technocare Orbit Ltd. has been established in 2018 with the motto to provide possible best IT and
+                        Technocare Orbit has been established in 2018 with the motto to provide possible best IT and
                         Cyber Security services to our honorable customer following an ethical business model. Now it’s
                         a great opportunity for us to present all about us to our honorable clients, customers, partners
                         and well-wishers with a lot of enthusiasm. Technocare Orbit Ltd is an IT company in Bangladesh

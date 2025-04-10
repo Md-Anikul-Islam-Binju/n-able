@@ -8,7 +8,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Virtualization & Cloud</h1>
+                <h1 class="fw-bold text-center">VIRTUALIZATION & CLOUD</h1>
             </div>
         </div>
     </header>

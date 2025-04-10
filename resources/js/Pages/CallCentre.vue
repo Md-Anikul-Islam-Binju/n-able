@@ -10,7 +10,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold">Call Centre Executive</h1>
+                <h1 class="fw-bold">CALL CENTER EXECUTIVE</h1>
             </div>
         </div>
     </header>
@@ -46,15 +46,15 @@
                         <li>Must possess exceptional organizational and multitasking skills.</li>
                     </ul>
 
-                    <h4 class="fw-bold">About N-able</h4>
+                    <h4 class="fw-bold">About Technocare Orbit</h4>
                     <p class="mb-4">
-                        Since our inception in 2008, N-able has been at the forefront of delivering innovative and reliable IT solutions that empower businesses for success. With a foundation rooted in Sri Lanka, we have grown to encompass a global presence, operating in Singapore, Bangladesh and beyond. <br>
+                        Since our inception in 2008, Technocare Orbit has been at the forefront of delivering innovative and reliable IT solutions that empower businesses for success. With a foundation rooted in Sri Lanka, we have grown to encompass a global presence, operating in Singapore, Bangladesh and beyond. <br>
                         We driven by a team of over 250 experienced IT professionals & engineers who are backed by a wealth of expertise. We deliver cutting-edge projects that cater to a diverse portfolio of clients, ensuring that every service we provide is top-notch & dependable.
                     </p>
 
                     <p class="text-center fw-bold">
                         If you believe you can contribute to our success and wish to join our team,
-                        please submit your CV to <a href="mailto:jobs@n-able.biz" class="text-decoration-none">jobs@n-able.biz</a>.
+                        please submit your CV to <a href="support@technocareorbit.io" class="text-decoration-none">support@technocareorbit.io</a>.
                     </p>
                 </div>
             </div>

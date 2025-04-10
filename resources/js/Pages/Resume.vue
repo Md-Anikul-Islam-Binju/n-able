@@ -6,7 +6,7 @@
             <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold fs-1">Submit Resume</h1>
+            <h1 class="fw-bold fs-1">SUBMIT RESUME</h1>
         </div>
     </header>
 
@@ -19,7 +19,7 @@
             <div class="col-md-6 d-flex align-items-center justify-content-center" style="height: 60vh;">
                 <div>
                     <h1 class="fw-bold">We're Hiring</h1>
-                    <p>Ready to be part of something extraordinary? Explore our current openings and discover how you can contribute to our dynamic team. Join us on this exciting journey at N-able.</p>
+                    <p>Ready to be part of something extraordinary? Explore our current openings and discover how you can contribute to our dynamic team. Join us on this exciting journey at Technocare Orbit.</p>
                 </div>
             </div>
 

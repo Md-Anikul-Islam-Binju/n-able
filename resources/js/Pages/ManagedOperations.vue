@@ -10,7 +10,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Managed Operations</h1>
+                <h1 class="fw-bold text-center">MANAGED OPERATIONS</h1>
             </div>
         </div>
     </header>
@@ -33,7 +33,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Managed Operations</h1>
                     <p class="section-description text-muted">
-                        N-able’s Managed Operations provide businesses with comprehensive, proactive IT support to ensure optimal performance, security and reliability of your technology infrastructure. Our managed services offer 24×7 monitoring, security management and ongoing optimization, ensuring that your IT systems run smoothly and securely while allowing you to focus on core business objectives. By leveraging N-able’s expertise, businesses can reduce downtime, minimize risks and improve operational efficiency.
+                        Technocare Orbit  Managed Operations provide businesses with comprehensive, proactive IT support to ensure optimal performance, security and reliability of your technology infrastructure. Our managed services offer 24×7 monitoring, security management and ongoing optimization, ensuring that your IT systems run smoothly and securely while allowing you to focus on core business objectives. By leveraging N-able’s expertise, businesses can reduce downtime, minimize risks and improve operational efficiency.
                     </p>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s 24×7 Proactive Monitoring & Escalation ensures that your IT infrastructure is constantly monitored to detect potential issues before they cause disruptions. Our team of experts works around the clock to monitor systems, networks and applications, providing real-time alerts for any anomalies or performance bottlenecks. With proactive escalation procedures in place, issues are addressed swiftly, minimizing downtime and ensuring business continuity.
+                                Technocare Orbit  24×7 Proactive Monitoring & Escalation ensures that your IT infrastructure is constantly monitored to detect potential issues before they cause disruptions. Our team of experts works around the clock to monitor systems, networks and applications, providing real-time alerts for any anomalies or performance bottlenecks. With proactive escalation procedures in place, issues are addressed swiftly, minimizing downtime and ensuring business continuity.
                             </p>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Managed Security Operations provide businesses with robust, around-the-clock protection against cyber threats. Our managed security services encompass threat monitoring, incident response, vulnerability management and continuous security assessments to safeguard your sensitive data and systems. By proactively identifying and mitigating risks, N-able helps protect your organization from evolving threats, ensuring compliance and reducing the likelihood of costly breaches or downtime.
+                                Technocare Orbit  Managed Security Operations provide businesses with robust, around-the-clock protection against cyber threats. Our managed security services encompass threat monitoring, incident response, vulnerability management and continuous security assessments to safeguard your sensitive data and systems. By proactively identifying and mitigating risks, N-able helps protect your organization from evolving threats, ensuring compliance and reducing the likelihood of costly breaches or downtime.
                             </p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s IT Infrastructure & Data Centre Infra Managed Services ensure the stability and performance of your critical IT systems and data centers. From server management to storage, networking and beyond, we provide end-to-end monitoring, management and optimization of your infrastructure. Our team ensures that your IT assets are secure, scalable and aligned with your business needs, reducing the risk of unexpected outages and improving operational efficiency.
+                                Technocare Orbit  IT Infrastructure & Data Centre Infra Managed Services ensure the stability and performance of your critical IT systems and data centers. From server management to storage, networking and beyond, we provide end-to-end monitoring, management and optimization of your infrastructure. Our team ensures that your IT assets are secure, scalable and aligned with your business needs, reducing the risk of unexpected outages and improving operational efficiency.
                             </p>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s DB, Middleware & Application Support services provide businesses with comprehensive management of databases, middleware and applications critical to day-to-day operations. We ensure that your systems run efficiently, offering ongoing support, performance optimization and troubleshooting. With N-able’s expertise, businesses can reduce downtime, optimize system performance and ensure seamless operations across complex IT environments.
+                                Technocare Orbit  DB, Middleware & Application Support services provide businesses with comprehensive management of databases, middleware and applications critical to day-to-day operations. We ensure that your systems run efficiently, offering ongoing support, performance optimization and troubleshooting. With N-able’s expertise, businesses can reduce downtime, optimize system performance and ensure seamless operations across complex IT environments.
                             </p>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Cloud Resource Monitoring & Management services help businesses optimize their cloud environments, ensuring seamless performance and cost-effectiveness. Our team continuously monitors cloud resources to ensure they meet business requirements while optimizing costs. We provide ongoing management of cloud infrastructure, helping businesses scale resources efficiently and maintain optimal performance while avoiding unnecessary expenses.
+                                Technocare Orbit  Cloud Resource Monitoring & Management services help businesses optimize their cloud environments, ensuring seamless performance and cost-effectiveness. Our team continuously monitors cloud resources to ensure they meet business requirements while optimizing costs. We provide ongoing management of cloud infrastructure, helping businesses scale resources efficiently and maintain optimal performance while avoiding unnecessary expenses.
                             </p>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                     <div id="collapse-6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Patch / Vulnerability Management services ensure that your systems are always up to date with the latest security patches, minimizing the risk of vulnerabilities. We provide proactive management of patches and updates for operating systems, applications and network devices, reducing the window of exposure to cyber threats. This approach helps businesses maintain a strong security posture, protect sensitive data and stay compliant with industry regulations.
+                                Technocare Orbit  Patch / Vulnerability Management services ensure that your systems are always up to date with the latest security patches, minimizing the risk of vulnerabilities. We provide proactive management of patches and updates for operating systems, applications and network devices, reducing the window of exposure to cyber threats. This approach helps businesses maintain a strong security posture, protect sensitive data and stay compliant with industry regulations.
                             </p>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                     <div id="collapse-7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Backup & Storage Management services ensure that your critical business data is securely backed up, easily recoverable and efficiently stored. We manage your backup processes, monitor data integrity and ensure that your storage infrastructure is optimized for both performance and cost. In the event of data loss, our reliable backup solutions enable quick recovery, minimizing downtime and protecting your organization from potential disruptions.
+                                Technocare Orbit  Backup & Storage Management services ensure that your critical business data is securely backed up, easily recoverable and efficiently stored. We manage your backup processes, monitor data integrity and ensure that your storage infrastructure is optimized for both performance and cost. In the event of data loss, our reliable backup solutions enable quick recovery, minimizing downtime and protecting your organization from potential disruptions.
                             </p>
                         </div>
                     </div>

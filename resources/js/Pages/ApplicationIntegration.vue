@@ -8,7 +8,7 @@
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Application modernization & integration</h1>
+                <h1 class="fw-bold text-center">APPLICATION MODERNIZATION & INTEGRATION</h1>
             </div>
         </div>
     </header>
@@ -142,7 +142,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Software Delivery Modernization services empower businesses to adopt modern software development practices. By optimizing development pipelines and leveraging automation, we help organizations deliver software faster, with higher quality, and greater alignment with business objectives.
+                                Technocare Orbit  Software Delivery Modernization services empower businesses to adopt modern software development practices. By optimizing development pipelines and leveraging automation, we help organizations deliver software faster, with higher quality, and greater alignment with business objectives.
                             </p>
                             <h6 class="fw-bold">Our team will help you to :</h6>
                             <ul class="mb-4">
