@@ -3,6 +3,7 @@
 use App\Http\Controllers\AboutUsPageController;
 use App\Http\Controllers\admin\AdminDashboardController;
 use App\Http\Controllers\admin\BlogController;
+use App\Http\Controllers\admin\CompanyController;
 use App\Http\Controllers\admin\NewsEventController;
 use App\Http\Controllers\admin\SliderController;
 use App\Http\Controllers\admin\TeamMemberController;
@@ -98,6 +99,12 @@ Route::middleware('auth')->group(callback: function () {
     Route::post('/blog-store', [BlogController::class, 'store'])->name('blog.store');
     Route::put('/blog-update/{id}', [BlogController::class, 'update'])->name('blog.update');
     Route::get('/blog-delete/{id}', [BlogController::class, 'destroy'])->name('blog.destroy');
+
+    //Company Section
+    Route::get('/company-section', [CompanyController::class, 'index'])->name('company.section');
+    Route::post('/company-store', [CompanyController::class, 'store'])->name('company.store');
+    Route::put('/company-update/{id}', [CompanyController::class, 'update'])->name('company.update');
+    Route::get('/company-delete/{id}', [CompanyController::class, 'destroy'])->name('company.destroy');
 
     Route::get('/dashboard', [AdminDashboardController::class, 'index'])->name('dashboard');
     Route::get('/unauthorized-action', [AdminDashboardController::class, 'unauthorized'])->name('unauthorized.action');
