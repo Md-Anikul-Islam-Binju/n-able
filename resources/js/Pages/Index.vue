@@ -130,7 +130,7 @@
         <div class="row justify-content-center">
             <!-- Card 1 -->
             <div class="col-md-4 mb-4">
-                <a href="infrastructure.html" class="text-decoration-none">
+                <Link href="/infrastructure" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/cloud-computing.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -138,12 +138,12 @@
                             <p class="card-text text-secondary fs-5">We provide building robust, secure &amp; scalable infrastructure solutions that support every modern business need. <br><br> </p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
 
             <!-- Card 2 -->
             <div class="col-md-4 mb-4">
-                <a href="application.html" class="text-decoration-none">
+                <Link href="/applications" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/categories.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -151,12 +151,12 @@
                             <p class="card-text text-secondary fs-5">We enhance application performance &amp; data management for improved insights, decision-making &amp; user experiences.<br><br></p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
 
             <!-- Card 3 -->
             <div class="col-md-4 mb-4">
-                <a href="tech services.html" class="text-decoration-none">
+                <Link href="/tech" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/customer-service.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -164,7 +164,7 @@
                             <p class="card-text text-secondary fs-5">We handle your IT operations with reliability, efficiency &amp; expert management, letting you focus on your core business activities.</p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
         </div>
     </section>
