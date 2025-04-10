@@ -5,9 +5,8 @@
         <div class="row h-100 align-items-center">
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div class="carousel-inner">
-
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
+                    <div class="carousel-item active" style="background-image: url('frontend/images/10.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
                         <div class="container h-100 d-flex align-items-center justify-content-start text-start">
                             <div class="banner-content text-white">
                                 <h1 class="fs-1">Welcome to Technocare Orbit</h1>
@@ -17,7 +16,7 @@
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="carousel-item" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
+                    <div class="carousel-item" style="background-image: url('frontend/images/11.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
                         <div class="container h-100 d-flex align-items-center justify-content-start text-start">
                             <div class="banner-content text-white">
                                 <h1 class="section-heading white-color js-scroll scrolled fade-in fs-1">
@@ -51,6 +50,8 @@
                         </div>
                     </div>
                 </div>
+
+
 
                 <!-- Carousel Controls -->
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
