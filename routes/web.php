@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Route;
 //});
 Route::get('/', [HomePageController::class, 'frontend'])->name('home');
 Route::get('/contact-us', [ContactUsPageController::class, 'contact']);
-Route::post('/contact-store', [ContactUsPageController::class, 'store'])->name('contact.store');
+Route::post('/contact-store', [ContactUsPageController::class, 'store']);
 Route::get('/team', [AboutUsPageController::class, 'team']);
 Route::get('/company', [AboutUsPageController::class, 'company']);
 Route::get('/awards', [AboutUsPageController::class, 'awards']);

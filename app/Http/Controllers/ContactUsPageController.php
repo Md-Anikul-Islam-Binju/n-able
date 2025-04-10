@@ -12,19 +12,27 @@ class ContactUsPageController extends Controller
         return inertia('Contact');
     }
 
+
     public function store(Request $request)
     {
-        $request->validate([
-            'name' => 'required|string|max:255',
-            'email' => 'nullable|email|max:255',
-            'phone' => 'nullable|string|max:20',
-            'message' => 'nullable|string|max:500',
-        ]);
+        try {
+            $request->validate([
+                'name' => 'required|string|max:255',
+                'email' => 'nullable|email|max:255',
+                'phone' => 'nullable|string|max:20',
+                'message' => 'nullable|string|max:500',
+            ]);
 
-        // Store the contact information in the database
-        ContactInformation::create($request->all());
-
-        return redirect()->back()->with('success', 'Your message has been sent successfully!');
+            $contactInformation = new ContactInformation();
+            $contactInformation->name = $request->name;
+            $contactInformation->email = $request->email;
+            $contactInformation->phone = $request->phone;
+            $contactInformation->message = $request->message;
+            $contactInformation->save();
+            return redirect()->back()->with('success', 'Your message has been sent successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred: ' . $e->getMessage());
+        }
     }
 
 
