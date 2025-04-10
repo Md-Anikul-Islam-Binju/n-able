@@ -3,7 +3,7 @@
     <!-- header -->
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
             <h1 class="fw-bold fs-1">OUR KEY PARTNERS</h1>

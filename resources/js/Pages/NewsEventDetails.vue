@@ -2,7 +2,7 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="https://technocareorbit.net/frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="https://technocareorbit.net/frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
