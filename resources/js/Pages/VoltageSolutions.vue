@@ -2,13 +2,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Extra-Low Voltage Solutions</h1>
+                <h1 class="fw-bold text-center">EXTRA-LOW VOLTAGE SOLUTIONS</h1>
             </div>
         </div>
     </header>
@@ -29,7 +29,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Extra-Low Voltage Solutions</h1>
                     <p class="section-description text-muted">
-                        N-able’s Extra Low Voltage (ELV) Solutions provide businesses with state-of-the-art, reliable and energy-efficient technologies for a wide range of applications. Our ELV systems are designed to enhance the operational efficiency, security and management of your infrastructure. From structured cabling to advanced building management, our solutions enable businesses to streamline operations, improve safety and reduce costs while ensuring that all systems are fully integrated and optimized for modern needs. With N-able, businesses can leverage innovative ELV systems to support seamless connectivity, security and efficient management of their facilities.
+                        Technocare Orbit Extra Low Voltage (ELV) Solutions provide businesses with state-of-the-art, reliable and energy-efficient technologies for a wide range of applications. Our ELV systems are designed to enhance the operational efficiency, security and management of your infrastructure. From structured cabling to advanced building management, our solutions enable businesses to streamline operations, improve safety and reduce costs while ensuring that all systems are fully integrated and optimized for modern needs. With N-able, businesses can leverage innovative ELV systems to support seamless connectivity, security and efficient management of their facilities.
                     </p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Structured Cabling Systems (SCS) provide the backbone for your organization’s network infrastructure. Our SCS solutions are designed to support high-speed data transmission, improve network efficiency and reduce maintenance costs. We implement flexible, scalable cabling systems that can easily accommodate future growth and technology upgrades, ensuring reliable connectivity for voice, data, video and other critical communication services within your business environment.
+                                Technocare Orbit Structured Cabling Systems (SCS) provide the backbone for your organization’s network infrastructure. Our SCS solutions are designed to support high-speed data transmission, improve network efficiency and reduce maintenance costs. We implement flexible, scalable cabling systems that can easily accommodate future growth and technology upgrades, ensuring reliable connectivity for voice, data, video and other critical communication services within your business environment.
                             </p>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Automatic Infra Management Solutions (AIM) offer businesses intelligent automation to manage and monitor infrastructure in real-time. Our AIM systems allow businesses to optimize the performance of IT, energy and other facility systems by providing centralized control, remote monitoring and predictive maintenance capabilities. With AIM, organizations can streamline operations, minimize downtime and enhance overall efficiency by proactively managing their infrastructure assets.
+                                Technocare Orbit Automatic Infra Management Solutions (AIM) offer businesses intelligent automation to manage and monitor infrastructure in real-time. Our AIM systems allow businesses to optimize the performance of IT, energy and other facility systems by providing centralized control, remote monitoring and predictive maintenance capabilities. With AIM, organizations can streamline operations, minimize downtime and enhance overall efficiency by proactively managing their infrastructure assets.
                             </p>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Access Control Solutions provide businesses with secure, scalable and easy-to-manage systems to control access to critical areas. Our solutions integrate biometric, card-based and mobile access technologies to provide robust security while enabling smooth and efficient user access management. With real-time monitoring, reporting and audit trails, businesses can ensure that their premises remain secure and compliant with industry standards.
+                                Technocare Orbit Access Control Solutions provide businesses with secure, scalable and easy-to-manage systems to control access to critical areas. Our solutions integrate biometric, card-based and mobile access technologies to provide robust security while enabling smooth and efficient user access management. With real-time monitoring, reporting and audit trails, businesses can ensure that their premises remain secure and compliant with industry standards.
                             </p>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Public Addressing (PA) Solutions help businesses enhance communication across their facilities with clear, reliable and effective audio systems. Our PA systems are ideal for announcements, emergency communications, and general notifications, providing businesses with a flexible solution for both routine and emergency situations. Whether for large offices, warehouses or public spaces, N-able’s PA solutions ensure that critical messages are conveyed clearly and promptly.
+                                Technocare Orbit Public Addressing (PA) Solutions help businesses enhance communication across their facilities with clear, reliable and effective audio systems. Our PA systems are ideal for announcements, emergency communications, and general notifications, providing businesses with a flexible solution for both routine and emergency situations. Whether for large offices, warehouses or public spaces, N-able’s PA solutions ensure that critical messages are conveyed clearly and promptly.
                             </p>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s IP Surveillance & Video Analytics solutions provide businesses with comprehensive security monitoring and intelligent insights. Our IP-based surveillance systems offer high-definition video capture, remote access and advanced video analytics to enhance security and operational efficiency. By leveraging machine learning and AI, our systems can identify anomalies, track behavior and provide actionable insights that help businesses improve safety and security while reducing manual monitoring efforts.
+                                Technocare Orbit IP Surveillance & Video Analytics solutions provide businesses with comprehensive security monitoring and intelligent insights. Our IP-based surveillance systems offer high-definition video capture, remote access and advanced video analytics to enhance security and operational efficiency. By leveraging machine learning and AI, our systems can identify anomalies, track behavior and provide actionable insights that help businesses improve safety and security while reducing manual monitoring efforts.
                             </p>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                     <div id="collapse-6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Physical Security Information Management (PSIM) solutions offer businesses a unified platform for managing and integrating all physical security systems. From surveillance cameras to access control systems, PSIM centralizes security data and provides real-time monitoring, incident management and reporting. With PSIM, businesses can respond faster to security threats, optimize resource allocation and improve overall situational awareness across their premises.
+                                Technocare Orbit Physical Security Information Management (PSIM) solutions offer businesses a unified platform for managing and integrating all physical security systems. From surveillance cameras to access control systems, PSIM centralizes security data and provides real-time monitoring, incident management and reporting. With PSIM, businesses can respond faster to security threats, optimize resource allocation and improve overall situational awareness across their premises.
                             </p>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                     <div id="collapse-7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able offers Turnstile, Barrier Gates and Swing Gates & Car Park Management solutions that provide businesses with secure, efficient access control and parking management systems. Our solutions help control the flow of people and vehicles, ensuring smooth operations while enhancing security. With features like automatic access, real-time monitoring and detailed reporting, businesses can improve safety, manage visitor traffic, and optimize parking space utilization.
+                                Technocare Orbit offers Turnstile, Barrier Gates and Swing Gates & Car Park Management solutions that provide businesses with secure, efficient access control and parking management systems. Our solutions help control the flow of people and vehicles, ensuring smooth operations while enhancing security. With features like automatic access, real-time monitoring and detailed reporting, businesses can improve safety, manage visitor traffic, and optimize parking space utilization.
                             </p>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                     <div id="collapse-8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Building Management System (BMS) integrates and automates the management of various building systems such as HVAC, lighting, energy, security and more. Our BMS solutions provide businesses with centralized control over their facilities, enabling real-time monitoring, optimization of energy use, and enhanced operational efficiency. With a BMS in place, businesses can reduce energy consumption, improve comfort, and ensure the safe and efficient operation of their buildings.
+                                Technocare Orbit Building Management System (BMS) integrates and automates the management of various building systems such as HVAC, lighting, energy, security and more. Our BMS solutions provide businesses with centralized control over their facilities, enabling real-time monitoring, optimization of energy use, and enhanced operational efficiency. With a BMS in place, businesses can reduce energy consumption, improve comfort, and ensure the safe and efficient operation of their buildings.
                             </p>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                     <div id="collapse-9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Guest Room Management Services (GRMS) offer hospitality businesses advanced control and automation of guest room systems. Our GRMS solutions integrate lighting, climate control, entertainment, security and communication systems, providing guests with a seamless experience. Businesses can improve guest satisfaction, reduce energy consumption and enhance operational efficiency by automating and centralizing room management functions.
+                                Technocare Orbit Guest Room Management Services (GRMS) offer hospitality businesses advanced control and automation of guest room systems. Our GRMS solutions integrate lighting, climate control, entertainment, security and communication systems, providing guests with a seamless experience. Businesses can improve guest satisfaction, reduce energy consumption and enhance operational efficiency by automating and centralizing room management functions.
                             </p>
                         </div>
                     </div>
@@ -208,7 +208,7 @@
                     <div id="collapse-10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Electrical Systems Design and Build services provide businesses with tailored electrical infrastructure solutions to meet the specific requirements of their facilities. From design to implementation, we deliver high-quality, reliable electrical systems that ensure optimal performance, energy efficiency and safety. Whether you need to upgrade existing infrastructure or build new systems from the ground up, N-able’s expertise ensures that your electrical systems are scalable, safe and aligned with industry standards.
+                                Technocare Orbit Electrical Systems Design and Build services provide businesses with tailored electrical infrastructure solutions to meet the specific requirements of their facilities. From design to implementation, we deliver high-quality, reliable electrical systems that ensure optimal performance, energy efficiency and safety. Whether you need to upgrade existing infrastructure or build new systems from the ground up, N-able’s expertise ensures that your electrical systems are scalable, safe and aligned with industry standards.
                             </p>
                         </div>
                     </div>

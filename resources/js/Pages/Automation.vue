@@ -4,13 +4,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Automation</h1>
+                <h1 class="fw-bold text-center">AUTOMATION</h1>
             </div>
         </div>
     </header>

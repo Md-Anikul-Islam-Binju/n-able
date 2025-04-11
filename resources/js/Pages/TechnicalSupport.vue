@@ -4,13 +4,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Technical Support</h1>
+                <h1 class="fw-bold text-center">TECHNICAL SUPPORTS</h1>
             </div>
         </div>
     </header>
@@ -33,7 +33,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Technical Support</h1>
                     <p class="section-description text-muted">
-                        N-able’s Tech Support services are designed to provide businesses with comprehensive, reliable and responsive assistance to ensure the smooth operation of their IT environments. Our support offerings are tailored to meet the needs of organizations looking to minimize downtime, optimize performance and quickly address any IT issues that may arise. Whether it’s proactive maintenance or rapid incident response, N-able’s tech support ensures your business is always supported by experienced professionals who are committed to resolving issues efficiently and effectively.
+                        Technocare Orbit  Tech Support services are designed to provide businesses with comprehensive, reliable and responsive assistance to ensure the smooth operation of their IT environments. Our support offerings are tailored to meet the needs of organizations looking to minimize downtime, optimize performance and quickly address any IT issues that may arise. Whether it’s proactive maintenance or rapid incident response, N-able’s tech support ensures your business is always supported by experienced professionals who are committed to resolving issues efficiently and effectively.
                     </p>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s 24×7 Technical Assistance Center (nTAC) offers continuous incident response and support for IT issue management. Available around the clock, our nTAC team is ready to assist with any IT challenges that may arise, providing quick and effective solutions to minimize downtime. Whether it’s a critical system failure or a routine technical query, our dedicated support team ensures that your business stays operational and that issues are resolved promptly.
+                                Technocare Orbit  24×7 Technical Assistance Center (nTAC) offers continuous incident response and support for IT issue management. Available around the clock, our nTAC team is ready to assist with any IT challenges that may arise, providing quick and effective solutions to minimize downtime. Whether it’s a critical system failure or a routine technical query, our dedicated support team ensures that your business stays operational and that issues are resolved promptly.
                             </p>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Multi-Vendor & Multi-Technology Technical Support provides businesses with comprehensive assistance across diverse IT vendors and technologies. We support a wide range of platforms, devices and software, ensuring seamless integration and troubleshooting no matter the complexity of your environment. Our expert team offers tailored solutions and guidance to ensure that all your technology solutions are fully supported, helping you maintain a consistent, high-performance IT ecosystem.
+                                Technocare Orbit  Multi-Vendor & Multi-Technology Technical Support provides businesses with comprehensive assistance across diverse IT vendors and technologies. We support a wide range of platforms, devices and software, ensuring seamless integration and troubleshooting no matter the complexity of your environment. Our expert team offers tailored solutions and guidance to ensure that all your technology solutions are fully supported, helping you maintain a consistent, high-performance IT ecosystem.
                             </p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Preventive Service Planning helps businesses avoid potential IT disruptions by strategically identifying and addressing areas of concern before they become issues. By proactively planning for system updates, hardware maintenance and potential vulnerabilities, we help businesses minimize the risk of unplanned downtime and costly repairs. Our preventive approach ensures that your IT systems remain resilient, secure and optimized for ongoing success
+                                Technocare Orbit  Preventive Service Planning helps businesses avoid potential IT disruptions by strategically identifying and addressing areas of concern before they become issues. By proactively planning for system updates, hardware maintenance and potential vulnerabilities, we help businesses minimize the risk of unplanned downtime and costly repairs. Our preventive approach ensures that your IT systems remain resilient, secure and optimized for ongoing success
                             </p>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Proactive Health Checks involve routine system assessments to maintain the optimized performance of your IT infrastructure. Regular health checks allow us to identify any potential issues before they impact operations, providing the insights needed to keep your systems running smoothly. These proactive assessments help businesses improve system efficiency, prevent failures and ensure the reliability of their IT environment.
+                                Technocare Orbit  Proactive Health Checks involve routine system assessments to maintain the optimized performance of your IT infrastructure. Regular health checks allow us to identify any potential issues before they impact operations, providing the insights needed to keep your systems running smoothly. These proactive assessments help businesses improve system efficiency, prevent failures and ensure the reliability of their IT environment.
                             </p>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s IT Infrastructure Gap Analysis focuses on identifying and addressing gaps in your current IT infrastructure. Our expert team evaluates your existing systems, processes and technologies to uncover areas where improvements are needed. By addressing these gaps, we help businesses enhance efficiency, reduce costs and optimize their IT environment for better performance and scalability. This analysis provides actionable recommendations that align with your business goals and ensure that your infrastructure is capable of supporting future growth.
+                                Technocare Orbit  IT Infrastructure Gap Analysis focuses on identifying and addressing gaps in your current IT infrastructure. Our expert team evaluates your existing systems, processes and technologies to uncover areas where improvements are needed. By addressing these gaps, we help businesses enhance efficiency, reduce costs and optimize their IT environment for better performance and scalability. This analysis provides actionable recommendations that align with your business goals and ensure that your infrastructure is capable of supporting future growth.
                             </p>
                         </div>
                     </div>

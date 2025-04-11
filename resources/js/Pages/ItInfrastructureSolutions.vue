@@ -2,13 +2,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">IT Infrastructure Solutions</h1>
+                <h1 class="fw-bold text-center">IT INFRASTRUCTURE SOLUTIONS</h1>
             </div>
         </div>
     </header>
@@ -29,7 +29,7 @@
                     <h1 class="section-heading-2 text-dark fw-bold">IT Infrastructure Solutions</h1>
                     <p class="fw-bold">IT Systems Infrastructure</p>
                     <p class="section-description text-muted">
-                        N-able’s IT Systems Infrastructure solutions provide businesses with the foundation they need to support and scale their technology operations. By delivering robust, flexible and secure infrastructure, we help organizations optimize their IT environments, improve efficiency and ensure seamless integration across systems. Our solutions are designed to meet the evolving needs of businesses, enabling them to stay agile, reduce costs and achieve greater operational resilience in today’s dynamic technology landscape.
+                        Technocare Orbit IT Systems Infrastructure solutions provide businesses with the foundation they need to support and scale their technology operations. By delivering robust, flexible and secure infrastructure, we help organizations optimize their IT environments, improve efficiency and ensure seamless integration across systems. Our solutions are designed to meet the evolving needs of businesses, enabling them to stay agile, reduce costs and achieve greater operational resilience in today’s dynamic technology landscape.
                     </p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Computer & Storage Solutions provide businesses with resilient, scalable infrastructure to meet the growing demands of modern IT environments. Our solutions ensure that organizations can efficiently manage and store critical data while optimizing their computing resources. By offering flexible and reliable systems, we help businesses maintain high performance, enhance productivity, and scale operations seamlessly.
+                                Technocare Orbit Computer & Storage Solutions provide businesses with resilient, scalable infrastructure to meet the growing demands of modern IT environments. Our solutions ensure that organizations can efficiently manage and store critical data while optimizing their computing resources. By offering flexible and reliable systems, we help businesses maintain high performance, enhance productivity, and scale operations seamlessly.
                             </p>
                             <ul class="mb-4">
                                 <li>Intel (x86) Based Servers</li>
@@ -78,7 +78,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Business Continuity Solutions are designed to ensure organizations remain operational even during unforeseen disruptions. Our solutions protect critical data and applications by ensuring they are quickly recoverable, minimizing downtime and preserving business operations. With a focus on reliability and resilience, we help businesses maintain continuity and secure their long-term success.
+                                Technocare Orbit Business Continuity Solutions are designed to ensure organizations remain operational even during unforeseen disruptions. Our solutions protect critical data and applications by ensuring they are quickly recoverable, minimizing downtime and preserving business operations. With a focus on reliability and resilience, we help businesses maintain continuity and secure their long-term success.
                             </p>
                             <ul class="mb-4">
                                 <li>Disaster Recovery</li>
@@ -100,7 +100,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Middleware Platforms provide the essential technology needed to support application development, integration, and management. These platforms enable businesses to optimize system performance, enhance connectivity, and streamline operations. By ensuring seamless communication between applications, they help businesses improve efficiency and reduce complexity in managing IT infrastructure.
+                                Technocare Orbit Middleware Platforms provide the essential technology needed to support application development, integration, and management. These platforms enable businesses to optimize system performance, enhance connectivity, and streamline operations. By ensuring seamless communication between applications, they help businesses improve efficiency and reduce complexity in managing IT infrastructure.
                             </p>
                             <ul class="mb-4">
                                 <li>Database Solutions</li>
@@ -121,7 +121,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Virtualization & Containerization Solutions optimize IT environments by enabling businesses to better allocate resources, increase flexibility, and improve scalability. These solutions reduce operational costs while ensuring efficient application deployment and management. With enhanced agility and streamlined operations, businesses can respond more rapidly to changing demands and market conditions.
+                                Technocare Orbit Virtualization & Containerization Solutions optimize IT environments by enabling businesses to better allocate resources, increase flexibility, and improve scalability. These solutions reduce operational costs while ensuring efficient application deployment and management. With enhanced agility and streamlined operations, businesses can respond more rapidly to changing demands and market conditions.
                             </p>
                             <ul class="mb-4">
                                 <li>Infrastructure Virtualization</li>
@@ -142,7 +142,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Big Data Platforms empower businesses to manage, process, and analyze large volumes of data. These solutions enable organizations to extract valuable insights from complex datasets, driving informed decision-making and innovation. By offering the necessary infrastructure to support big data initiatives, we help businesses unlock the full potential of their data and stay competitive in an increasingly data-driven world.
+                                Technocare Orbit Big Data Platforms empower businesses to manage, process, and analyze large volumes of data. These solutions enable organizations to extract valuable insights from complex datasets, driving informed decision-making and innovation. By offering the necessary infrastructure to support big data initiatives, we help businesses unlock the full potential of their data and stay competitive in an increasingly data-driven world.
                             </p>
                         </div>
                     </div>

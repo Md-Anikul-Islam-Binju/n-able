@@ -2,10 +2,10 @@
     <!-- header -->
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold fs-1">Awards & Accolades</h1>
+            <h1 class="fw-bold fs-1">AWARDS & ACCOLADES</h1>
             <p class="lead fw-bold fs-5 text-primary">Our Excellence</p>
         </div>
     </header>
@@ -15,7 +15,7 @@
         <div class="container">
             <div class="text-center mb-5">
                 <h5 class="text-black-50">
-                    N-able has garnered numerous accolades and awards over the years, recognizing our commitment to excellence, efficiency, and delivering value-driven outcomes. Our focus on quality & results-oriented solutions has earned us the trust of both clients and industry peers, positioning N-able as a leader in technology and business innovation.
+                    Technocare Orbit has garnered numerous accolades and awards over the years, recognizing our commitment to excellence, efficiency, and delivering value-driven outcomes. Our focus on quality & results-oriented solutions has earned us the trust of both clients and industry peers, positioning Technocare Orbit as a leader in technology and business innovation.
                 </h5>
             </div>
 

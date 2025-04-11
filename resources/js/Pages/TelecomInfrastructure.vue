@@ -2,13 +2,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Telecom Infrastructure & Applications</h1>
+                <h1 class="fw-bold text-center">TELECOM INFRASTRUCTURE & APPLICATIONS</h1>
             </div>
         </div>
     </header>
@@ -31,7 +31,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Telecom Infrastructure & Applications</h1>
                     <p class="section-description text-muted">
-                        N-able helps Telcos build robust, vendor-agnostic and automated networks, enabling them to deliver immersive services and sustain their business in an increasingly digital world. With our solutions, Telcos can enhance service delivery, optimize operational costs, and drive innovation for their customers.
+                        Technocare Orbit helps Telcos build robust, vendor-agnostic and automated networks, enabling them to deliver immersive services and sustain their business in an increasingly digital world. With our solutions, Telcos can enhance service delivery, optimize operational costs, and drive innovation for their customers.
                     </p>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                     <div id="collapse-1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                As the telecommunications industry transitions to 5G, Telcos have the opportunity to unlock transformational use cases and revenue streams. 5G will provide ultra-high speeds, low latency and support for massive connections, enabling new services such as IoT-based applications and private 5G networks. N-able assists Telcos in deploying 5G private networks and leveraging edge computing to maximize the potential of 5G infrastructure. We provide end-to-end expertise in automation, application modernization, AI, and telecom solutions to help Telcos deliver next-gen services, drive IoT adoption and monetize their 5G investments effectively.
+                                As the telecommunications industry transitions to 5G, Telcos have the opportunity to unlock transformational use cases and revenue streams. 5G will provide ultra-high speeds, low latency and support for massive connections, enabling new services such as IoT-based applications and private 5G networks. Technocare Orbit assists Telcos in deploying 5G private networks and leveraging edge computing to maximize the potential of 5G infrastructure. We provide end-to-end expertise in automation, application modernization, AI, and telecom solutions to help Telcos deliver next-gen services, drive IoT adoption and monetize their 5G investments effectively.
                             </p>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                Open Networks are a key enabler for Telcos to build flexible, scalable, and cost-effective networks. By adopting open, standard-based and disaggregated technologies, Telcos can create vendor-agnostic networks that reduce CAPEX and OPEX while improving network efficiency. N-able helps Telcos implement open network solutions through a broad ecosystem of partners and expert professional services. We work closely with Telcos to integrate open technologies into their legacy networks, enhancing configurability, scalability, and speed of convergence, ensuring they stay ahead in a fast-evolving market.
+                                Open Networks are a key enabler for Telcos to build flexible, scalable, and cost-effective networks. By adopting open, standard-based and disaggregated technologies, Telcos can create vendor-agnostic networks that reduce CAPEX and OPEX while improving network efficiency. Technocare Orbit helps Telcos implement open network solutions through a broad ecosystem of partners and expert professional services. We work closely with Telcos to integrate open technologies into their legacy networks, enhancing configurability, scalability, and speed of convergence, ensuring they stay ahead in a fast-evolving market.
                             </p>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                Open Networks are a key enabler for Telcos to build flexible, scalable, and cost-effective networks. By adopting open, standard-based and disaggregated technologies, Telcos can create vendor-agnostic networks that reduce CAPEX and OPEX while improving network efficiency. N-able helps Telcos implement open network solutions through a broad ecosystem of partners and expert professional services. We work closely with Telcos to integrate open technologies into their legacy networks, enhancing configurability, scalability, and speed of convergence, ensuring they stay ahead in a fast-evolving market.
+                                Open Networks are a key enabler for Telcos to build flexible, scalable, and cost-effective networks. By adopting open, standard-based and disaggregated technologies, Telcos can create vendor-agnostic networks that reduce CAPEX and OPEX while improving network efficiency. Technocare Orbit helps Telcos implement open network solutions through a broad ecosystem of partners and expert professional services. We work closely with Telcos to integrate open technologies into their legacy networks, enhancing configurability, scalability, and speed of convergence, ensuring they stay ahead in a fast-evolving market.
                             </p>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                The future of service provider networks will be hybrid, combining conventional 3GPP standards with emerging open standards, leveraging both internal and external cloud infrastructure. Consultancy and professional services from N-able help Telcos navigate this transformation by offering insights, strategy, and expertise for adopting and implementing hybrid and 5G networks. Our consultancy services guide Telcos on their digital journey, ensuring they remain relevant and competitive in the dynamic telecom industry. Additionally, N-able works as a service partner for select OEMs, providing high-quality professional services to reduce overall solution costs while ensuring competitive pricing and the successful deployment of end-to-end solutions.
+                                The future of service provider networks will be hybrid, combining conventional 3GPP standards with emerging open standards, leveraging both internal and external cloud infrastructure. Consultancy and professional services from Technocare Orbit help Telcos navigate this transformation by offering insights, strategy, and expertise for adopting and implementing hybrid and 5G networks. Our consultancy services guide Telcos on their digital journey, ensuring they remain relevant and competitive in the dynamic telecom industry. Additionally, Technocare Orbit works as a service partner for select OEMs, providing high-quality professional services to reduce overall solution costs while ensuring competitive pricing and the successful deployment of end-to-end solutions.
                             </p>
                         </div>
                     </div>

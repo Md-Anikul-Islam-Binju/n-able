@@ -3,13 +3,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Data Centre Consultancy & Build</h1>
+                <h1 class="fw-bold text-center">DATA CENTRE CONSULTANCY & BUILD</h1>
             </div>
         </div>
     </header>
@@ -32,7 +32,7 @@
                 <div class="col-lg-6">
                     <h1 class="section-heading-2 text-dark fw-bold">Data Centre Consultancy & Build</h1>
                     <p class="section-description text-muted">
-                        N-able’s Data Center Consultancy & Build services empower businesses to design, build and optimize their data centers to support evolving business needs. With extensive experience in constructing some of the largest and most advanced data centers in the region, we provide end-to-end solutions that ensure your infrastructure is scalable, efficient, secure and future-proof. Our expert team delivers strategic consulting, cutting-edge designs and seamless execution to build data centers that meet the highest industry standards, including Tier 3 and Tier 4 certifications.
+                        Technocare Orbit Data Center Consultancy & Build services empower businesses to design, build and optimize their data centers to support evolving business needs. With extensive experience in constructing some of the largest and most advanced data centers in the region, we provide end-to-end solutions that ensure your infrastructure is scalable, efficient, secure and future-proof. Our expert team delivers strategic consulting, cutting-edge designs and seamless execution to build data centers that meet the highest industry standards, including Tier 3 and Tier 4 certifications.
                     </p>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                     <div id="collapse-2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able specializes in the design and build of Large Data Centers that meet the most demanding operational and security standards. With a focus on Tier 3 and Tier 4 facilities, we ensure high uptime, redundant systems and enterprise-grade security for mission-critical operations. Our solutions offer businesses the scalability, reliability and flexibility required to support large-scale data operations, cloud computing, and high-performance applications.
+                                Technocare Orbit specializes in the design and build of Large Data Centers that meet the most demanding operational and security standards. With a focus on Tier 3 and Tier 4 facilities, we ensure high uptime, redundant systems and enterprise-grade security for mission-critical operations. Our solutions offer businesses the scalability, reliability and flexibility required to support large-scale data operations, cloud computing, and high-performance applications.
                             </p>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                     <div id="collapse-3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s UPS Systems (Uninterruptible Power Supply) are crucial for ensuring continuous power supply in data center environments. We design and implement custom UPS solutions to safeguard critical infrastructure from power disruptions. Our UPS systems help businesses maintain consistent operations during power failures, protect sensitive equipment from damage and avoid costly downtime
+                                Technocare Orbit UPS Systems (Uninterruptible Power Supply) are crucial for ensuring continuous power supply in data center environments. We design and implement custom UPS solutions to safeguard critical infrastructure from power disruptions. Our UPS systems help businesses maintain consistent operations during power failures, protect sensitive equipment from damage and avoid costly downtime
                             </p>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                     <div id="collapse-4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                Efficient cooling is essential for maintaining optimal performance and longevity of data center equipment. N-able’s Data Center Cooling Solutions are designed to manage temperature, humidity and airflow effectively to reduce energy consumption while preventing overheating. Our cooling solutions include precision air conditioning, liquid cooling and other cutting-edge technologies to ensure that your data center runs at peak efficiency.
+                                Efficient cooling is essential for maintaining optimal performance and longevity of data center equipment. Technocare Orbit Data Center Cooling Solutions are designed to manage temperature, humidity and airflow effectively to reduce energy consumption while preventing overheating. Our cooling solutions include precision air conditioning, liquid cooling and other cutting-edge technologies to ensure that your data center runs at peak efficiency.
                             </p>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Data Center Infrastructure Management (DCIM) solutions offer businesses centralized control over all aspects of data center operations, from power and cooling to security and space utilization. By implementing DCIM, we help businesses gain real-time visibility into their infrastructure, enabling proactive monitoring, predictive maintenance and data-driven decision-making to optimize performance and reduce costs.
+                                Technocare Orbit Data Center Infrastructure Management (DCIM) solutions offer businesses centralized control over all aspects of data center operations, from power and cooling to security and space utilization. By implementing DCIM, we help businesses gain real-time visibility into their infrastructure, enabling proactive monitoring, predictive maintenance and data-driven decision-making to optimize performance and reduce costs.
                             </p>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                     <div id="collapse-6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Power Metering Monitoring & Management solutions enable businesses to track and control power consumption within their data centers. Our systems provide real-time monitoring of power usage, identify inefficiencies and offer insights to reduce energy consumption and lower operational costs. By optimizing power use, businesses can improve sustainability, reduce their carbon footprint and ensure cost-effective operations.
+                                Technocare Orbit Power Metering Monitoring & Management solutions enable businesses to track and control power consumption within their data centers. Our systems provide real-time monitoring of power usage, identify inefficiencies and offer insights to reduce energy consumption and lower operational costs. By optimizing power use, businesses can improve sustainability, reduce their carbon footprint and ensure cost-effective operations.
                             </p>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                     <div id="collapse-7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Data Center Co-location Evaluation services help businesses assess the viability of hosting their IT infrastructure in third-party data centers. We assist in evaluating the location, security, power, cooling and network capabilities of potential co-location providers, ensuring businesses make informed decisions that align with their operational needs and budget. This service supports businesses looking for flexible and scalable data center solutions without the complexity of building and managing their own facilities.
+                                Technocare Orbit Data Center Co-location Evaluation services help businesses assess the viability of hosting their IT infrastructure in third-party data centers. We assist in evaluating the location, security, power, cooling and network capabilities of potential co-location providers, ensuring businesses make informed decisions that align with their operational needs and budget. This service supports businesses looking for flexible and scalable data center solutions without the complexity of building and managing their own facilities.
                             </p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                     <div id="collapse-8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able offers comprehensive Data Center Consulting services to guide businesses through the complex process of building, managing and optimizing their data centers. Our team of experts helps identify the best strategies for scaling, securing and maintaining your data infrastructure. From initial design and planning to ongoing optimization, our consulting services ensure that your data center meets industry standards and is aligned with your business goals.
+                                Technocare Orbit offers comprehensive Data Center Consulting services to guide businesses through the complex process of building, managing and optimizing their data centers. Our team of experts helps identify the best strategies for scaling, securing and maintaining your data infrastructure. From initial design and planning to ongoing optimization, our consulting services ensure that your data center meets industry standards and is aligned with your business goals.
                             </p>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                     <div id="collapse-9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s DC Testing and Commissioning Services ensure that your data center’s systems are thoroughly tested and fully operational before going live. Our testing processes include evaluating electrical systems, cooling efficiency, security protocols and overall infrastructure performance. By commissioning your data center with our expert team, businesses can be confident that their infrastructure is ready to support mission-critical operations from day one.
+                                Technocare Orbit DC Testing and Commissioning Services ensure that your data center’s systems are thoroughly tested and fully operational before going live. Our testing processes include evaluating electrical systems, cooling efficiency, security protocols and overall infrastructure performance. By commissioning your data center with our expert team, businesses can be confident that their infrastructure is ready to support mission-critical operations from day one.
                             </p>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
                     <div id="collapse-10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Data Center Managed Operations Services provide businesses with ongoing support and management to ensure that their data centers run smoothly and efficiently. Our team offers continuous monitoring, troubleshooting, performance optimization and maintenance to reduce downtime, enhance reliability and ensure operational excellence. With our managed services, businesses can focus on their core activities while we handle the complexities of day-to-day data center operations.
+                                Technocare Orbit Data Center Managed Operations Services provide businesses with ongoing support and management to ensure that their data centers run smoothly and efficiently. Our team offers continuous monitoring, troubleshooting, performance optimization and maintenance to reduce downtime, enhance reliability and ensure operational excellence. With our managed services, businesses can focus on their core activities while we handle the complexities of day-to-day data center operations.
                             </p>
                         </div>
                     </div>

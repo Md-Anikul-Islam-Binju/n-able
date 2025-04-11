@@ -2,13 +2,13 @@
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <!-- Background Image -->
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover img-fluid" alt="Background Image" loading="lazy">
         </div>
 
         <!-- Overlay with Text -->
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-start text-white bg-dark bg-opacity-50 px-4">
             <div class="container">
-                <h1 class="fw-bold text-center">Cybersecurity</h1>
+                <h1 class="fw-bold text-center">CYBERSECURITY</h1>
             </div>
         </div>
     </header>
@@ -214,7 +214,7 @@
                     <div id="collapse-5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Cybersecurity Assurance Services are designed to fortify your organization’s digital infrastructure against evolving threats. By identifying vulnerabilities, assessing risks, and ensuring robust security measures, we help businesses safeguard their critical assets and maintain operational resilience. Our expertise ensures that your systems are prepared to handle emerging challenges, comply with industry standards, and stay secure in an increasingly complex digital landscape.
+                                Technocare Orbit Cybersecurity Assurance Services are designed to fortify your organization’s digital infrastructure against evolving threats. By identifying vulnerabilities, assessing risks, and ensuring robust security measures, we help businesses safeguard their critical assets and maintain operational resilience. Our expertise ensures that your systems are prepared to handle emerging challenges, comply with industry standards, and stay secure in an increasingly complex digital landscape.
                             </p>
                             <ul class="mb-4">
                                 <li>Vulnerability Assessments</li>
@@ -241,7 +241,7 @@
                     <div id="collapse-6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Digital Forensics & Incident Response Services provide businesses with the expertise to effectively manage and respond to cybersecurity incidents. By identifying, analyzing and mitigating threats, we help minimize impact and ensure a swift recovery. Our comprehensive approach to digital forensics uncovers critical insights, enabling organizations to strengthen their defenses and maintain operational continuity in the face of evolving cyber challenges.
+                                Technocare Orbit Digital Forensics & Incident Response Services provide businesses with the expertise to effectively manage and respond to cybersecurity incidents. By identifying, analyzing and mitigating threats, we help minimize impact and ensure a swift recovery. Our comprehensive approach to digital forensics uncovers critical insights, enabling organizations to strengthen their defenses and maintain operational continuity in the face of evolving cyber challenges.
                             </p>
                             <ul class="mb-4">
                                 <li>Incident response</li>
@@ -268,7 +268,7 @@
                     <div id="collapse-7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Cyber Capacity Building Services are designed to strengthen your organization’s ability to recognize, respond to and mitigate cybersecurity threats. Through targeted training, awareness campaigns and simulations, we foster a security-conscious culture across teams. Our services empower businesses with the knowledge and skills needed to enhance resilience, adapt to evolving risks and maintain robust cybersecurity practices.
+                                Technocare Orbit Cyber Capacity Building Services are designed to strengthen your organization’s ability to recognize, respond to and mitigate cybersecurity threats. Through targeted training, awareness campaigns and simulations, we foster a security-conscious culture across teams. Our services empower businesses with the knowledge and skills needed to enhance resilience, adapt to evolving risks and maintain robust cybersecurity practices.
                             </p>
                             <ul class="mb-4">
                                 <li>Phishing Simulations</li>
@@ -293,7 +293,7 @@
                     <div id="collapse-8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p class="mb-4">
-                                N-able’s Governance, Risk and Compliance (GRC) & Auditing Services help businesses manage their organizational processes, minimize risks and ensure compliance with industry regulations. Through comprehensive governance frameworks and risk management strategies, we support businesses in maintaining compliance while addressing emerging challenges. Our auditing services assess security, network, infrastructure and configurations, offering detailed insights to ensure systems are secure, efficient, and compliant with established standards.
+                                Technocare Orbit Governance, Risk and Compliance (GRC) & Auditing Services help businesses manage their organizational processes, minimize risks and ensure compliance with industry regulations. Through comprehensive governance frameworks and risk management strategies, we support businesses in maintaining compliance while addressing emerging challenges. Our auditing services assess security, network, infrastructure and configurations, offering detailed insights to ensure systems are secure, efficient, and compliant with established standards.
                             </p>
                             <h5 class="fw-bold">GRC</h5>
                             <ul>

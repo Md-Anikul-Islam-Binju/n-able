@@ -2,10 +2,10 @@
     <!-- header -->
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold">Contact us</h1>
+            <h1 class="fw-bold">CONTACT US</h1>
             <p class="lead fw-bold fs-5">Connect. Collaborate. Converse.</p>
         </div>
     </header>
@@ -38,7 +38,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Email us</strong></p>
-                        <p><a href="mailto:info@n-able.biz" class="text-decoration-none">info@n-able.biz</a></p>
+                        <p><a href="support@technocareorbit.io" class="text-decoration-none">support@technocareorbit.io</a></p>
                     </div>
                 </div>
 
@@ -49,7 +49,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Call us</strong></p>
-                        <p><a href="tel:0114625000" class="text-decoration-none">0114 625 000</a></p>
+                        <p><a href="tel:0114625000" class="text-decoration-none">+88 01710-507935</a></p>
                     </div>
                 </div>
             </div>
@@ -59,24 +59,24 @@
                 <div class="card shadow">
                     <div class="card-body">
                         <h1 class="card-title mb-3 fw-bold">Let's Talk</h1>
-                        <form>
+                        <form @submit.prevent="submitForm">
                             <div class="mb-3">
-                                <label for="name" class="form-label">Full Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                                <label class="form-label">Full Name</label>
+                                <input type="text" v-model="name" class="form-control" placeholder="Enter your name">
                             </div>
                             <div class="mb-3">
-                                <label for="email" class="form-label">Email Address</label>
-                                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                                <label class="form-label">Email Address</label>
+                                <input type="email" v-model="email" class="form-control" placeholder="Enter your email">
                             </div>
                             <div class="mb-3">
-                                <label for="phone" class="form-label">Phone Number</label>
-                                <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number">
+                                <label class="form-label">Phone Number</label>
+                                <input type="tel" v-model="phone" class="form-control" placeholder="Enter your phone number">
                             </div>
                             <div class="mb-3">
-                                <label for="message" class="form-label">Message</label>
-                                <textarea class="form-control" id="message" rows="4" placeholder="Your message"></textarea>
+                                <label class="form-label">Message</label>
+                                <textarea v-model="message" class="form-control" rows="4" placeholder="Your message"></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary w-0">Submit</button>
+                            <button type="submit" class="btn btn-primary">Submit</button>
                         </form>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
                             Dhaka -1212, Bangladesh
                         </p>
                         <p class="cb-phone fw-bold mt-2">
-                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+880 1777 113 110</a>
+                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+88 01710-507935</a>
                         </p>
                     </div>
                 </div>
@@ -160,12 +160,66 @@
 
 <script>
 import Layout from "../frontend/Layout.vue";
+import { Inertia } from '@inertiajs/inertia'
+import Swal from 'sweetalert2'
 
 export default {
     name: "Contact",
     layout: Layout,
+
+    data() {
+        return {
+            name: '',
+            email: '',
+            phone: '',
+            message: ''
+        }
+    },
+
+    methods: {
+        submitForm() {
+            Inertia.post('/contact-store', {
+                name: this.name,
+                email: this.email,
+                phone: this.phone,
+                message: this.message,
+            }, {
+                onSuccess: (page) => {
+                    if (page.props.flash && page.props.flash.success) {
+                        // Show SweetAlert modal on successful form submission
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Success!',
+                            text: page.props.flash.success,
+                            confirmButtonColor: '#3085d6',
+                        });
+
+                        // Optional: reset form fields
+                        this.name = '';
+                        this.email = '';
+                        this.phone = '';
+                        this.message = '';
+                    }
+                },
+                onError: (page) => {
+                    // Optionally, show an error alert if needed
+                    if (page.props.flash && page.props.flash.error) {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Oops!',
+                            text: page.props.flash.error,
+                            confirmButtonColor: '#d33',
+                        });
+                    }
+                }
+            });
+        }
+    }
 }
 </script>
+
+
+
 
 <style scoped>
 

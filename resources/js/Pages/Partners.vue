@@ -3,16 +3,16 @@
     <!-- header -->
     <header class="position-relative" style="height: 50vh; overflow: hidden;">
         <div class="position-absolute top-0 start-0 w-100 h-100">
-            <img src="frontend/images/slide.jpg" class="w-100 h-100 object-fit-cover" alt="Background Image">
+            <img src="frontend/images/banner.jpeg" class="w-100 h-100 object-fit-cover" alt="Background Image">
         </div>
         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center text-center text-white bg-dark bg-opacity-50">
-            <h1 class="fw-bold fs-1">Our Key Partners</h1>
+            <h1 class="fw-bold fs-1">OUR KEY PARTNERS</h1>
         </div>
     </header>
 
     <section class="container text-center mt-5">
         <h5 class="mb-5 text-black-50">
-            N-able has an extensive partner network, consisting of world-class brands across our technology solutions portfolio.
+            Technocare Orbit has an extensive partner network, consisting of world-class brands across our technology solutions portfolio.
             The strength of these top-tier partnerships provide yet another value addition enjoyed by our customers.
         </h5>
     </section>

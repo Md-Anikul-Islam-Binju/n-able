@@ -5,9 +5,8 @@
         <div class="row h-100 align-items-center">
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div class="carousel-inner">
-
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
+                    <div class="carousel-item active" style="background-image: url('frontend/images/10.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
                         <div class="container h-100 d-flex align-items-center justify-content-start text-start">
                             <div class="banner-content text-white">
                                 <h1 class="fs-1">Welcome to Technocare Orbit</h1>
@@ -17,7 +16,7 @@
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="carousel-item" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
+                    <div class="carousel-item" style="background-image: url('frontend/images/11.gif'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
                         <div class="container h-100 d-flex align-items-center justify-content-start text-start">
                             <div class="banner-content text-white">
                                 <h1 class="section-heading white-color js-scroll scrolled fade-in fs-1">
@@ -51,6 +50,8 @@
                         </div>
                     </div>
                 </div>
+
+
 
                 <!-- Carousel Controls -->
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -130,7 +131,7 @@
         <div class="row justify-content-center">
             <!-- Card 1 -->
             <div class="col-md-4 mb-4">
-                <a href="infrastructure.html" class="text-decoration-none">
+                <Link href="/infrastructure" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/cloud-computing.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -138,12 +139,12 @@
                             <p class="card-text text-secondary fs-5">We provide building robust, secure &amp; scalable infrastructure solutions that support every modern business need. <br><br> </p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
 
             <!-- Card 2 -->
             <div class="col-md-4 mb-4">
-                <a href="application.html" class="text-decoration-none">
+                <Link href="/applications" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/categories.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -151,12 +152,12 @@
                             <p class="card-text text-secondary fs-5">We enhance application performance &amp; data management for improved insights, decision-making &amp; user experiences.<br><br></p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
 
             <!-- Card 3 -->
             <div class="col-md-4 mb-4">
-                <a href="tech services.html" class="text-decoration-none">
+                <Link href="/tech" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
                         <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/customer-service.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
@@ -164,7 +165,7 @@
                             <p class="card-text text-secondary fs-5">We handle your IT operations with reliability, efficiency &amp; expert management, letting you focus on your core business activities.</p>
                         </div>
                     </div>
-                </a>
+                </Link>
             </div>
         </div>
     </section>
@@ -321,22 +322,27 @@
             </div>
             <br><br>
             <div class="slide-track gap-4">
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt=""></div>
+                <div class="slide"  v-for="(company, index) in companys" :key="index">
+                    <img :src="baseUrl + '/images/company/' + company.image" height="100" width="250" alt="">
+                </div>
+                <div class="slide"  v-for="(company, index) in companys" :key="index">
+                    <img :src="baseUrl + '/images/company/' + company.image" height="100" width="250" alt="">
+                </div>
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt=""></div>-->
 
-                <!-- Duplicate for smooth loop -->
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt=""></div>
-                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt=""></div>
+<!--                &lt;!&ndash; Duplicate for smooth loop &ndash;&gt;-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt=""></div>-->
+<!--                <div class="slide"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt=""></div>-->
             </div>
         </div>
     </div>
@@ -402,7 +408,7 @@
         <div class="container">
             <h2 class="section-heading-2 text-white">Testimonials</h2>
             <p class="section-description text-white">
-                Hear what our clients have to say about their journey with N-able.
+                Hear what our clients have to say about their journey with Technocare Orbit.
             </p>
 
             <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -417,7 +423,7 @@
                             <h5 class="testi-name text-white mt-3">Adam Gamage-Brooker</h5>
                             <p class="testi-designation text-white">Chief Operating Officer - Muve Colombo</p>
                             <p class="text-white">
-                                “We have been utilizing N-able’s Managed IT Services for the past two years at Muve
+                                “We have been utilizing Technocare Orbit Managed IT Services for the past two years at Muve
                                 and we are extremely pleased with the level of service provided by them. Their proactive
                                 approach and their expertise in managing IT infrastructure has greatly contributed to our
                                 operational efficiency.”
@@ -435,7 +441,7 @@
                             <h5 class="testi-name text-white mt-3">Professor Gihan Dias</h5>
                             <p class="testi-designation text-white">Domain Registrar & CEO - LK Domain Registry</p>
                             <p class="text-white">
-                                “We value our partnership with N-able (Pvt) Ltd. as a Security Services Provider for
+                                “We value our partnership with Technocare Orbit. as a Security Services Provider for
                                 LK Domain Registry. Their services have contributed to the reliability and stability of
                                 our IT infrastructure.”
                             </p>
@@ -452,7 +458,7 @@
                             <h5 class="testi-name text-white mt-3">Dr. Ruwan Wickramarachchi</h5>
                             <p class="testi-designation text-white">Department of Industrial Management - University of Kelaniya</p>
                             <p class="text-white">
-                                “Thanks to N-able, we now have a more secure & reliable network performance – ensuring
+                                “Thanks to Technocare Orbit, we now have a more secure & reliable network performance – ensuring
                                 smooth connectivity across our campus. We highly appreciate N-able’s support and look
                                 forward to future collaborations.”
                             </p>
@@ -479,6 +485,7 @@ export default {
     layout: Layout,
     props: {
         newsEvents: Array,
+        companys: Array,
     },
     computed: {
         baseUrl() {
