@@ -332,22 +332,22 @@
                 <div class="col-md-6">
                     <div class="card shadow">
                         <div class="card-body">
-                            <form>
+                            <form @submit.prevent="submitForm">
                                 <div class="mb-3">
-                                    <label for="name" class="form-label">Full Name</label>
-                                    <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                                    <label class="form-label">Full Name</label>
+                                    <input type="text" v-model="name" class="form-control" placeholder="Enter your name">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="email" class="form-label">Email Address</label>
-                                    <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                                    <label class="form-label">Email Address</label>
+                                    <input type="email" v-model="email" class="form-control" placeholder="Enter your email">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="phone" class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number">
+                                    <label class="form-label">Phone Number</label>
+                                    <input type="tel" v-model="phone" class="form-control" placeholder="Enter your phone number">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="message" class="form-label">Message</label>
-                                    <textarea class="form-control" id="message" rows="4" placeholder="Your message"></textarea>
+                                    <label class="form-label">Message</label>
+                                    <textarea v-model="message" class="form-control" rows="4" placeholder="Your message"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Submit</button>
                             </form>
@@ -363,10 +363,41 @@
 
 <script>
 import Layout from "../frontend/Layout.vue";
+import {router} from "@inertiajs/vue3";
 
 export default {
     name: "Cybersecurity",
     layout: Layout,
+    data() {
+        return {
+            name: '',
+            email: '',
+            phone: '',
+            message: ''
+        }
+    },
+
+    methods: {
+        submitForm() {
+            router.post('/contact-store', {
+                name: this.name,
+                email: this.email,
+                phone: this.phone,
+                message: this.message,
+            }, {
+                onSuccess: () => {
+                    // Reset form fields
+                    this.name = '';
+                    this.email = '';
+                    this.phone = '';
+                    this.message = '';
+                },
+                onError: (errors) => {
+                    console.log(errors);
+                }
+            });
+        }
+    }
 }
 </script>
 
