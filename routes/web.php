@@ -111,6 +111,9 @@ Route::middleware('auth')->group(callback: function () {
     Route::get('/dashboard', [AdminDashboardController::class, 'index'])->name('dashboard');
     Route::get('/unauthorized-action', [AdminDashboardController::class, 'unauthorized'])->name('unauthorized.action');
 
+    Route::get('/message-list', [AdminDashboardController::class, 'message'])->name('message.section');
+    Route::get('/message-delete/{id}', [AdminDashboardController::class, 'messageDestroy'])->name('message.destroy');
+
 
     //Role and User Section
     Route::resource('roles', RoleController::class);
