@@ -160,8 +160,7 @@
 
 <script>
 import Layout from "../frontend/Layout.vue";
-import { Inertia } from '@inertiajs/inertia'
-import Swal from 'sweetalert2'
+import { router } from '@inertiajs/vue3';  // Updated import for Inertia v3
 
 export default {
     name: "Contact",
@@ -178,39 +177,21 @@ export default {
 
     methods: {
         submitForm() {
-            Inertia.post('/contact-store', {
+            router.post('/contact-store', {
                 name: this.name,
                 email: this.email,
                 phone: this.phone,
                 message: this.message,
             }, {
-                onSuccess: (page) => {
-                    if (page.props.flash && page.props.flash.success) {
-                        // Show SweetAlert modal on successful form submission
-                        Swal.fire({
-                            icon: 'success',
-                            title: 'Success!',
-                            text: page.props.flash.success,
-                            confirmButtonColor: '#3085d6',
-                        });
-
-                        // Optional: reset form fields
-                        this.name = '';
-                        this.email = '';
-                        this.phone = '';
-                        this.message = '';
-                    }
+                onSuccess: () => {
+                    // Reset form fields
+                    this.name = '';
+                    this.email = '';
+                    this.phone = '';
+                    this.message = '';
                 },
-                onError: (page) => {
-                    // Optionally, show an error alert if needed
-                    if (page.props.flash && page.props.flash.error) {
-                        Swal.fire({
-                            icon: 'error',
-                            title: 'Oops!',
-                            text: page.props.flash.error,
-                            confirmButtonColor: '#d33',
-                        });
-                    }
+                onError: (errors) => {
+                    console.log(errors);
                 }
             });
         }

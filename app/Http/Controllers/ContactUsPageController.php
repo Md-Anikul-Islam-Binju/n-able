@@ -29,8 +29,7 @@ class ContactUsPageController extends Controller
             $contactInformation->phone = $request->phone;
             $contactInformation->message = $request->message;
             $contactInformation->save();
-
-            return redirect()->back()->with('success', 'Your message has been sent successfully!');
+            return to_route('tnx');
 
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred: ' . $e->getMessage());

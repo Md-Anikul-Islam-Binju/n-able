@@ -15,4 +15,9 @@ class HomePageController extends Controller
         return inertia('Index',compact('newsEvents', 'companys'));
     }
 
+    public function tnx()
+    {
+        return inertia('ThankYou');
+    }
+
 }

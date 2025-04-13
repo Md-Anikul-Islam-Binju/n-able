@@ -21,6 +21,7 @@ use Illuminate\Support\Facades\Route;
 //    return view('welcome');
 //});
 Route::get('/', [HomePageController::class, 'frontend'])->name('home');
+Route::get('/tnx', [HomePageController::class, 'tnx'])->name('tnx');
 Route::get('/contact-us', [ContactUsPageController::class, 'contact']);
 Route::post('/contact-store', [ContactUsPageController::class, 'store']);
 Route::get('/team', [AboutUsPageController::class, 'team']);
