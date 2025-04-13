@@ -1,3 +1,8 @@
+body{
+    overflow-x: hidden;
+    -ms-overflow-x: hidden;
+}
+
  /* navbar css */
 
  /* Positioning the logo */
@@ -14,7 +19,7 @@
   .dropdown-menu {
     background-color: #e0e9e9; /* Light gray */
   }
-  
+
   .dropdown-menu .dropdown-item:hover {
     background-color: #69d6ac; /* Green */
     color: #050505; /* Black text */
@@ -57,7 +62,7 @@
   display: flex;
   animation: scroll 20s linear infinite;
   width: calc(250px * 14);
-  
+
 }
 
 .slide {
