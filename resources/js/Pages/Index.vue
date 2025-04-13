@@ -66,53 +66,41 @@
         </div>
     </div>
 
+    <section class="stats-section py-5 bg-light">
+        <div class="container mt-5 fs-1 fw-bold">
+            <div class="row g-4 justify-content-center">
+                <div class="col-md-3 col-sm-6">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <div class="counter" data-count="16">16</div>
+                            <p class="cw-text fs-5">Years of Industry Experience</p>
+                        </div>
+                    </div>
+                </div>
 
-    <!-- count page -->
-    <section class="section-1 position-relative section-gap lazyloaded mt-4">
-        <div class="main-wrap">
-            <div class="container-fluid">
-                <div class="row justify-content-center">
-                    <div class="col-12">
-                        <div class="countdown-wrap d-flex flex-wrap justify-content-center fw-bold fs-3">
-                            <!-- Countdown Box 1 -->
-                            <div class="countdown-box col-md-4 text-center mx-3 mb-4 " style="width: 15rem">
-                                <div class="countdown-box-inner">
-                                    <div class="count-num text-color fs-1">
-                                        <span data-animateduration="1000" data-countto="16">0</span><span>+</span>
-                                    </div>
-                                    <p class="cw-text fs-5">Years of Industry Experience</p>
-                                </div>
-                            </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <div class="counter" data-count="2000">2000</div>
+                            <p class="cw-text fs-5">Successful Projects Implemented</p>
+                        </div>
+                    </div>
+                </div>
 
-                            <!-- Countdown Box 2 -->
-                            <div class="countdown-box col-md-4 text-center mx-3 mb-4 " style="width: 15rem">
-                                <div class="countdown-box-inner">
-                                    <div class="count-num text-color fs-1">
-                                        <span data-animateduration="2000" data-countto="2000">0</span><span>+</span>
-                                    </div>
-                                    <p class="cw-text fs-5">Successful Projects Implemented</p>
-                                </div>
-                            </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <div class="counter" data-count="40">40</div>
+                            <p class="cw-text fs-5">Industry Awards</p>
+                        </div>
+                    </div>
+                </div>
 
-                            <!-- Countdown Box 3 -->
-                            <div class="countdown-box col-md-4 text-center mx-3 mb-4 " style="width: 15rem">
-                                <div class="countdown-box-inner">
-                                    <div class="count-num text-color fs-1">
-                                        <span data-animateduration="3000" data-countto="40">0</span><span>+</span>
-                                    </div>
-                                    <p class="cw-text fs-5">Industry Awards</p>
-                                </div>
-                            </div>
-
-                            <!-- Countdown Box 4 -->
-                            <div class="countdown-box col-md-4 text-center mx-3 mb-4 " style="width: 15rem">
-                                <div class="countdown-box-inner">
-                                    <div class="count-num text-color fs-1">
-                                        <span data-animateduration="4000" data-countto="300">0</span><span>+</span>
-                                    </div>
-                                    <p class="cw-text fs-5">Team of Industry Specialists</p>
-                                </div>
-                            </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <div class="counter" data-count="300">300</div>
+                            <p class="cw-text fs-5">Team of Industry Specialists</p>
                         </div>
                     </div>
                 </div>

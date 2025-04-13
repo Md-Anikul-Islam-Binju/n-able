@@ -3,7 +3,7 @@
         <div class="container-fluid">
 
 
-            <a class="navbar-brand fs-4 custom-logo ms-2" href="#">
+            <a class="navbar-brand fs-4 custom-logo ms-3" href="#">
                 <img src="https://technocareorbit.net/frontend/images/nable-black.png" alt="Logo" width="160" height="60" class="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
