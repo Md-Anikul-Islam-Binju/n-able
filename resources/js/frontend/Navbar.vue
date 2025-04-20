@@ -3,7 +3,7 @@
         <div class="container-fluid">
 
 
-            <a class="navbar-brand fs-4 custom-logo ms-3" href="#">
+            <a class="navbar-brand fs-4 custom-logo ms-3" href="/">
                 <img src="https://technocareorbit.net/frontend/images/nable-black.png" alt="Logo" width="160" height="60" class="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,6 +25,9 @@
                             <li><Link class="dropdown-item" href="/industries">Industries We Serve</Link></li>
                             <li><Link class="dropdown-item" href="/partners">Our Key Partners</Link></li>
                         </ul>
+                    </li>
+                    <li class="nav-item">
+                        <Link class="nav-link" href="/partners">Partner</Link>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

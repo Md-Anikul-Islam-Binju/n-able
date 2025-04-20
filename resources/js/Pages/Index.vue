@@ -23,32 +23,11 @@
                                     Infrastructure Solutions
                                 </h1>
                                 <p>Built for Today. Ready for Tomorrow.</p>
-                                <a href="https://www.n-able.biz/infrastructure/" class="btn btn-info">Learn More</a>
+                                <a href="https://technocareorbit.net/infrastructure/" class="btn btn-info">Learn More</a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Slide 3 -->
-                    <div class="carousel-item" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
-                        <div class="container h-100 d-flex align-items-center justify-content-start text-start">
-                            <div class="banner-content text-white">
-                                <h1 class="fs-1">Applications & Data</h1>
-                                <p>Powering Insights, Driving Efficiency</p>
-                                <a href="https://www.n-able.biz/applications/" class="btn btn-custom">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="carousel-item" style="background-image: url('frontend/images/slide.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;">
-                        <div class="container h-100 d-flex align-items-center justify-content-start text-start">
-                            <div class="banner-content text-white">
-                                <h1 class="fs-1">Tech Services</h1>
-                                <p>Expert Care, Seamless Operations.</p>
-                                <a href="https://www.n-able.biz/tech-services/" class="btn btn-info">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
 
 
@@ -121,7 +100,7 @@
             <div class="col-md-4 mb-4">
                 <Link href="/infrastructure" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/cloud-computing.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
+                        <img src="frontend/images/service-1.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
                             <h5 class="card-title text-dark fs-3">Infrastructure Solutions</h5>
                             <p class="card-text text-secondary fs-5">We provide building robust, secure &amp; scalable infrastructure solutions that support every modern business need. <br><br> </p>
@@ -134,7 +113,7 @@
             <div class="col-md-4 mb-4">
                 <Link href="/applications" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/categories.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
+                        <img src="frontend/images/service-2.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
                             <h5 class="card-title text-dark fs-3">Applications</h5>
                             <p class="card-text text-secondary fs-5">We enhance application performance &amp; data management for improved insights, decision-making &amp; user experiences.<br><br></p>
@@ -147,7 +126,7 @@
             <div class="col-md-4 mb-4">
                 <Link href="/tech" class="text-decoration-none">
                     <div class="card text-center mb-3 service-card">
-                        <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/customer-service.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
+                        <img src="frontend/images/service-3.png" class="card-img-top mx-auto d-block" alt="image" style="width: 5rem; height: 5rem;">
                         <div class="card-body">
                             <h5 class="card-title text-dark fs-3">Tech Services</h5>
                             <p class="card-text text-secondary fs-5">We handle your IT operations with reliability, efficiency &amp; expert management, letting you focus on your core business activities.</p>
@@ -375,78 +354,78 @@
     <br>
 
     <!-- Testimonials -->
-    <section class="section-7 section-gap green-sec text-center py-5">
-        <div class="container">
-            <h2 class="section-heading-2 text-white">Testimonials</h2>
-            <p class="section-description text-white">
-                Hear what our clients have to say about their journey with Technocare Orbit.
-            </p>
+<!--    <section class="section-7 section-gap green-sec text-center py-5">-->
+<!--        <div class="container">-->
+<!--            <h2 class="section-heading-2 text-white">Testimonials</h2>-->
+<!--            <p class="section-description text-white">-->
+<!--                Hear what our clients have to say about their journey with Technocare Orbit.-->
+<!--            </p>-->
 
-            <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <!-- Testimonial 1 -->
-                    <div class="carousel-item active">
-                        <div class="testi-box d-flex flex-column align-items-center">
-                            <div class="testi-img">
-                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/adam.png"
-                                     alt="Adam Gamage-Brooker" class="rounded-circle" width="100">
-                            </div>
-                            <h5 class="testi-name text-white mt-3">Adam Gamage-Brooker</h5>
-                            <p class="testi-designation text-white">Chief Operating Officer - Muve Colombo</p>
-                            <p class="text-white">
-                                “We have been utilizing Technocare Orbit Managed IT Services for the past two years at Muve
-                                and we are extremely pleased with the level of service provided by them. Their proactive
-                                approach and their expertise in managing IT infrastructure has greatly contributed to our
-                                operational efficiency.”
-                            </p>
-                        </div>
-                    </div>
+<!--            <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">-->
+<!--                <div class="carousel-inner">-->
+<!--                    &lt;!&ndash; Testimonial 1 &ndash;&gt;-->
+<!--                    <div class="carousel-item active">-->
+<!--                        <div class="testi-box d-flex flex-column align-items-center">-->
+<!--                            <div class="testi-img">-->
+<!--                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/01/adam.png"-->
+<!--                                     alt="Adam Gamage-Brooker" class="rounded-circle" width="100">-->
+<!--                            </div>-->
+<!--                            <h5 class="testi-name text-white mt-3">Adam Gamage-Brooker</h5>-->
+<!--                            <p class="testi-designation text-white">Chief Operating Officer - Muve Colombo</p>-->
+<!--                            <p class="text-white">-->
+<!--                                “We have been utilizing Technocare Orbit Managed IT Services for the past two years at Muve-->
+<!--                                and we are extremely pleased with the level of service provided by them. Their proactive-->
+<!--                                approach and their expertise in managing IT infrastructure has greatly contributed to our-->
+<!--                                operational efficiency.”-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
 
-                    <!-- Testimonial 2 -->
-                    <div class="carousel-item">
-                        <div class="testi-box d-flex flex-column align-items-center">
-                            <div class="testi-img">
-                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/02/Untitled-design-2025-02-06T135219.717.png"
-                                     alt="Professor Gihan Dias" class="rounded-circle" width="100">
-                            </div>
-                            <h5 class="testi-name text-white mt-3">Professor Gihan Dias</h5>
-                            <p class="testi-designation text-white">Domain Registrar & CEO - LK Domain Registry</p>
-                            <p class="text-white">
-                                “We value our partnership with Technocare Orbit. as a Security Services Provider for
-                                LK Domain Registry. Their services have contributed to the reliability and stability of
-                                our IT infrastructure.”
-                            </p>
-                        </div>
-                    </div>
+<!--                    &lt;!&ndash; Testimonial 2 &ndash;&gt;-->
+<!--                    <div class="carousel-item">-->
+<!--                        <div class="testi-box d-flex flex-column align-items-center">-->
+<!--                            <div class="testi-img">-->
+<!--                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/02/Untitled-design-2025-02-06T135219.717.png"-->
+<!--                                     alt="Professor Gihan Dias" class="rounded-circle" width="100">-->
+<!--                            </div>-->
+<!--                            <h5 class="testi-name text-white mt-3">Professor Gihan Dias</h5>-->
+<!--                            <p class="testi-designation text-white">Domain Registrar & CEO - LK Domain Registry</p>-->
+<!--                            <p class="text-white">-->
+<!--                                “We value our partnership with Technocare Orbit. as a Security Services Provider for-->
+<!--                                LK Domain Registry. Their services have contributed to the reliability and stability of-->
+<!--                                our IT infrastructure.”-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
 
-                    <!-- Testimonial 3 -->
-                    <div class="carousel-item">
-                        <div class="testi-box d-flex flex-column align-items-center">
-                            <div class="testi-img">
-                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/02/ruwan-wickramarachchi__300x300-1.png"
-                                     alt="Dr. Ruwan Wickramarachchi" class="rounded-circle" width="100">
-                            </div>
-                            <h5 class="testi-name text-white mt-3">Dr. Ruwan Wickramarachchi</h5>
-                            <p class="testi-designation text-white">Department of Industrial Management - University of Kelaniya</p>
-                            <p class="text-white">
-                                “Thanks to Technocare Orbit, we now have a more secure & reliable network performance – ensuring
-                                smooth connectivity across our campus. We highly appreciate N-able’s support and look
-                                forward to future collaborations.”
-                            </p>
-                        </div>
-                    </div>
-                </div>
+<!--                    &lt;!&ndash; Testimonial 3 &ndash;&gt;-->
+<!--                    <div class="carousel-item">-->
+<!--                        <div class="testi-box d-flex flex-column align-items-center">-->
+<!--                            <div class="testi-img">-->
+<!--                                <img src="https://cdn-ilcobfn.nitrocdn.com/hOBCIaYVVxKXldzbmkRJspxkjJMdNdKB/assets/images/optimized/rev-88a59fa/www.n-able.biz/wp-content/uploads/2025/02/ruwan-wickramarachchi__300x300-1.png"-->
+<!--                                     alt="Dr. Ruwan Wickramarachchi" class="rounded-circle" width="100">-->
+<!--                            </div>-->
+<!--                            <h5 class="testi-name text-white mt-3">Dr. Ruwan Wickramarachchi</h5>-->
+<!--                            <p class="testi-designation text-white">Department of Industrial Management - University of Kelaniya</p>-->
+<!--                            <p class="text-white">-->
+<!--                                “Thanks to Technocare Orbit, we now have a more secure & reliable network performance – ensuring-->
+<!--                                smooth connectivity across our campus. We highly appreciate N-able’s support and look-->
+<!--                                forward to future collaborations.”-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
-                <!-- Controls -->
-                <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon"></span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
-                    <span class="carousel-control-next-icon"></span>
-                </button>
-            </div>
-        </div>
-    </section>
+<!--                &lt;!&ndash; Controls &ndash;&gt;-->
+<!--                <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">-->
+<!--                    <span class="carousel-control-prev-icon"></span>-->
+<!--                </button>-->
+<!--                <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">-->
+<!--                    <span class="carousel-control-next-icon"></span>-->
+<!--                </button>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 </template>
 
 <script>
