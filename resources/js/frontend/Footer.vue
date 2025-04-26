@@ -19,9 +19,9 @@
                 <div class="col-md-3 mb-4 d-flex flex-column align-items-md-center align-items-start mt-5">
                     <h5>Quick Links</h5>
                     <ul class="list-unstyled  text-start">
-                        <li><a href="page-4.html" class="text-white text-decoration-none btn-info">Privacy Policy</a></li>
-                        <li><a href="page-5.html" class="text-white text-decoration-none">compliance</a></li>
-                        <li><a href="page-6.html" class="text-white text-decoration-none">Partner with us</a></li>
+                        <li><Link href="/privacy-policy" class="text-white text-decoration-none btn-info">Privacy Policy</Link></li>
+                        <li><Link href="/compliance" class="text-white text-decoration-none">compliance</Link></li>
+                        <li><Link href="/partnerWithUs" class="text-white text-decoration-none">Partner with us</Link></li>
                     </ul>
                 </div>
 

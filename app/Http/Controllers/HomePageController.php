@@ -20,4 +20,19 @@ class HomePageController extends Controller
         return inertia('ThankYou');
     }
 
+    public function privacyPolicy()
+    {
+        return inertia('PrivacyPolicy');
+    }
+
+    public function compliance()
+    {
+        return inertia('Compliance');
+    }
+
+    public function partnerWithUs()
+    {
+        return inertia('PartnerWithUs');
+    }
+
 }

@@ -66,6 +66,10 @@ Route::get('/tech', [SolutionPageController::class, 'tech']);
 Route::get('/managedOperations', [SolutionPageController::class, 'managedOperations']);
 Route::get('/technicalSupport', [SolutionPageController::class, 'technicalSupport']);
 
+Route::get('/privacy-policy', [HomePageController::class, 'privacyPolicy']);
+Route::get('/compliance', [HomePageController::class, 'compliance']);
+Route::get('/partnerWithUs', [HomePageController::class, 'PartnerWithUs']);
+
 //Route::get('/dashboard', function () {
 //    return view('dashboard');
 //})->middleware(['auth', 'verified'])->name('dashboard');
