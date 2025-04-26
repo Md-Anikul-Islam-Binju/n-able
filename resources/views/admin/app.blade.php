@@ -105,34 +105,35 @@
 
                 <li class="side-nav-item">
                     <a href="{{route('team.section')}}" class="side-nav-link">
-                        <i class="ri-dashboard-3-line"></i>
+                        <i class="bi bi-people"></i>
+
                         <span> Team </span>
                     </a>
                 </li>
                 <li class="side-nav-item">
                     <a href="{{route('event.section')}}" class="side-nav-link">
-                        <i class="ri-dashboard-3-line"></i>
+                        <i class="bi bi-calendar-event"></i>
                         <span> Event & News </span>
                     </a>
                 </li>
 
                 <li class="side-nav-item">
                     <a href="{{route('blog.section')}}" class="side-nav-link">
-                        <i class="ri-dashboard-3-line"></i>
+                        <i class="bi bi-book"></i>
                         <span> Blog </span>
                     </a>
                 </li>
 
                 <li class="side-nav-item">
                     <a href="{{route('company.section')}}" class="side-nav-link">
-                        <i class="ri-dashboard-3-line"></i>
+                        <i class="bi bi-building"></i>
                         <span> Company </span>
                     </a>
                 </li>
 
                 <li class="side-nav-item">
                     <a href="{{route('message.section')}}" class="side-nav-link">
-                        <i class="ri-dashboard-3-line"></i>
+                        <i class="bi bi-chat"></i>
                         <span> Message </span>
                     </a>
                 </li>
