@@ -16,7 +16,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-img">
-                        <img src="frontend/images/page/About N-able.jpg"
+                        <img src="frontend/images/page/4565.jpg"
                              alt="About N-able"
                              class="img-fluid rounded-4 shadow">
                     </div>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="about-img-2">
-                        <img src="frontend/images/page/Our History & Legacy.webp"
+                        <img src="frontend/images/page/2558.jpg"
                              alt="image" class="img-fluid rounded-4 shadow">
                     </div>
                 </div>
@@ -72,7 +72,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-img">
-                        <img src="frontend/images/page/0Y2A1090-1.jpg"
+                        <img src="frontend/images/page/new69.jpg"
                              alt="About N-able"
                              class="img-fluid rounded-4 shadow">
                     </div>

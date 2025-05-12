@@ -38,7 +38,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Email us</strong></p>
-                        <p><a href="support@technocareorbit.io" class="text-decoration-none">support@technocareorbit.io</a></p>
+                        <p><a href="support@technocareorbit.io" class="text-decoration-none">support@technocareorbit.net</a></p>
                     </div>
                 </div>
 
@@ -49,7 +49,7 @@
                     </div>
                     <div>
                         <p class="mb-2"><strong>Call us</strong></p>
-                        <p><a href="tel:0114625000" class="text-decoration-none">+88 01710-507935</a></p>
+                        <p><a href="tel:0114625000" class="text-decoration-none">+88 01759-512412</a></p>
                     </div>
                 </div>
             </div>
@@ -143,12 +143,12 @@
                     <div class="contact-box text-start p-3  rounded d-flex flex-column h-0">
                         <div class="cb-country fw-bold mb-2 text-light fs-5">Bangladesh Country Office</div>
                         <p class="cb-address flex-grow-1 text-light">
-                            Wakil Tower, Ta-131 (08th Floor), <br>
-                            Gulshan Badda Link Road, Badda, <br>
-                            Dhaka -1212, Bangladesh
+                            The Eden House 37 <br>
+                            Road #7 ,Sector #10, <br>
+                            Uttara,Dhaka, Bangladesh
                         </p>
                         <p class="cb-phone fw-bold mt-2">
-                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+88 01710-507935</a>
+                            <a href="tel:+880 1777 113 110" class="text-decoration-none text-light">+88 01759-512412</a>
                         </p>
                     </div>
                 </div>

@@ -51,20 +51,7 @@
         </div>
     </section>
 
-    <section class="container-fluid h-25">
-        <div class="row h-25 justify-content-center align-items-center">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading-2 text-primary">
-                    Our Senior Leadership
-                </h2>
-                <p class="section-description text-muted">
-                    Technocare Orbit is led by a team of industry veterans, who collectively bring decades of experience to the table.
-                    The leadership team is invested in mentoring and training the next generation of IT Professionals in Sri Lanka,
-                    and do so in every interaction they get.
-                </p>
-            </div>
-        </div>
-    </section>
+
 
 </template>
 

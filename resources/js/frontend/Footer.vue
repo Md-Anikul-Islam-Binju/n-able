@@ -61,12 +61,12 @@
 
                             <p class="md-6">
                                 <a href="#" class="text-white text-decoration-none"></a>
-                                <i class="bx bxs-envelope"></i> support@technocareorbit.io
+                                <i class="bx bxs-envelope"></i> support@technocareorbit.net
                             </p>
 
                             <p class="md-6">
                                 <a href="#" class="text-white text-decoration-none"></a>
-                                <i class="bx bxs-envelope"></i> siqbal@technocareorbit.io
+                                <i class="bx bxs-envelope"></i> siqbal@technocareorbit.net
                             </p>
 
                             <p class="md-6">
@@ -76,7 +76,7 @@
 
                             <p class="md-6">
                                 <a href="#" class="text-white text-decoration-none"></a>
-                                <i class="bx bxs-phone"></i>  +88 01710-507935
+                                <i class="bx bxs-phone"></i>  +88 01759-512412
                             </p>
 
 
