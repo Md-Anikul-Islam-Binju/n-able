@@ -86,10 +86,37 @@
                     </div>
                 </div>
                 <div class="col">
+                    <div class="bg-white">
+                        <img src="frontend/images/logo/cr.png" class="card-img-top" alt="Image 13">
+                    </div>
+                </div>
+                <div class="col">
                     <div class="bg-light">
                         <img src="frontend/images/logo/logo-13.webp" class="card-img-top" alt="Image 13">
                     </div>
                 </div>
+                <div class="col">
+                    <div class="bg-white">
+                        <img src="frontend/images/logo/rsa.png" class="card-img-top " alt="Image 13">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="bg-white">
+                        <img src="frontend/images/logo/rapid.png" class="card-img-top " alt="Image 13">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="bg-white">
+                        <img src="frontend/images/logo/cyber.png" class="card-img-top " alt="Image 13">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="bg-white">
+                        <img src="frontend/images/logo/te.png" class="card-img-top " alt="Image 13">
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>

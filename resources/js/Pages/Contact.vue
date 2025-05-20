@@ -26,7 +26,9 @@
                     </div>
                     <div>
                         <p class="mb-1"><strong>Head Office</strong></p>
-                        <p class="mb-0">36 Sir Razik Fareed Mawatha, Colombo 00100</p>
+                        <p class="mb-0">The Eden House 37
+                            Road #7 ,Sector #10,<br>
+                            Uttara,Dhaka, Bangladesh</p>
                     </div>
                 </div>
 
@@ -97,7 +99,7 @@
                         <p class="section-description text-muted">
                             For any tech support-related queries, you may reach us on our 24x7 tech support portal.
                         </p>
-                        <a href="https://ntac.n-able.biz/" target="_blank" class=" fs-5 btn btn-outline-info rounded-pill mt-3"> Click Here </a>
+<!--                        <a href="https://ntac.n-able.biz/" target="_blank" class=" fs-5 btn btn-outline-info rounded-pill mt-3"> Click Here </a>-->
                 </div>
             </div>
         </div>
@@ -113,10 +115,10 @@
                 <!-- Corporate Office -->
                 <div class="col-md-4 d-flex">
                     <div class="contact-box text-start p-3  rounded d-flex flex-column h-50">
-                        <div class="cb-country fw-bold mb-2 text-light fs-5">Corporate Office</div>
+                        <div class="cb-country fw-bold mb-2 text-light fs-5">Branch Office</div>
                         <p class="cb-address mb-1 flex-grow-1 text-light">
-                            111 North Bridge Road, #23-05,<br>
-                            Peninsula Plaza, Singapore, 179098, SG
+                            4th Floor, 827 East Shewrapara, Mirpur <br>
+                            Dhaka-1216, Bangladesh
                         </p>
                         <p class="cb-phone fw-bold mt-2">
                             <a href="tel:+65 31 38 38 48" class="text-decoration-none text-light">+65 31 38 38 48</a>
@@ -124,19 +126,19 @@
                     </div>
                 </div>
 
-                <!-- Engineering Office -->
-                <div class="col-md-4 d-flex">
-                    <div class="contact-box text-start p-3  rounded d-flex flex-column h-50">
-                        <div class="cb-country fw-bold mb-2 text-light fs-5">Engineering Office</div>
-                        <p class="cb-address mb-1 flex-grow-1 text-light">
-                            No. 36, Bristol Street, Colombo 01,<br>
-                            Western 001, LK Sri Lanka.
-                        </p>
-                        <p class="cb-phone fw-bold mt-2">
-                            <a href="tel:+94 114 625 000" class="text-decoration-none text-light">+94 114 625 000</a>
-                        </p>
-                    </div>
-                </div>
+<!--                &lt;!&ndash; Engineering Office &ndash;&gt;-->
+<!--                <div class="col-md-4 d-flex">-->
+<!--                    <div class="contact-box text-start p-3  rounded d-flex flex-column h-50">-->
+<!--                        <div class="cb-country fw-bold mb-2 text-light fs-5">Engineering Office</div>-->
+<!--                        <p class="cb-address mb-1 flex-grow-1 text-light">-->
+<!--                            No. 36, Bristol Street, Colombo 01,<br>-->
+<!--                            Western 001, LK Sri Lanka.-->
+<!--                        </p>-->
+<!--                        <p class="cb-phone fw-bold mt-2">-->
+<!--                            <a href="tel:+94 114 625 000" class="text-decoration-none text-light">+94 114 625 000</a>-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <!-- Bangladesh Country Office -->
                 <div class="col-md-4 d-flex">

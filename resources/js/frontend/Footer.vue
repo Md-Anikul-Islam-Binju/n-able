@@ -91,7 +91,7 @@
             <!-- Footer Bottom -->
             <div class="row">
                 <div class="col-12 mt-3">
-                    <p class="mb-0">&copy; 2025 Technocare Orbit. All rights reserved.</p>
+                    <p class="mb-0">&copy; 2025 Techno care orbit. All rights reserved.</p>
                 </div>
             </div>
         </div>

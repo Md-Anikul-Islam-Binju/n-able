@@ -292,6 +292,9 @@
                 <div class="slide"  v-for="(company, index) in companys" :key="index">
                     <img :src="baseUrl + '/images/company/' + company.image" height="100" width="250" alt="">
                 </div>
+                <div class="slide"  v-for="(company, index) in companys" :key="index">
+                    <img :src="baseUrl + '/images/company/' + company.image" height="100" width="250" alt="">
+                </div>
             </div>
         </div>
     </div>
